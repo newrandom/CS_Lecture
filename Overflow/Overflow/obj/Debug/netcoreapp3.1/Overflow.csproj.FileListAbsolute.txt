@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/Overflow/Overflow/bin/Debug/netcoreapp3.1/Overflow
+/Users/newrandom/Projects/Overflow/Overflow/bin/Debug/netcoreapp3.1/Overflow.deps.json
+/Users/newrandom/Projects/Overflow/Overflow/bin/Debug/netcoreapp3.1/Overflow.runtimeconfig.json
+/Users/newrandom/Projects/Overflow/Overflow/bin/Debug/netcoreapp3.1/Overflow.runtimeconfig.dev.json
+/Users/newrandom/Projects/Overflow/Overflow/bin/Debug/netcoreapp3.1/Overflow.dll
+/Users/newrandom/Projects/Overflow/Overflow/bin/Debug/netcoreapp3.1/Overflow.pdb
+/Users/newrandom/Projects/Overflow/Overflow/obj/Debug/netcoreapp3.1/Overflow.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/Overflow/Overflow/obj/Debug/netcoreapp3.1/Overflow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/Overflow/Overflow/obj/Debug/netcoreapp3.1/Overflow.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/Overflow/Overflow/obj/Debug/netcoreapp3.1/Overflow.AssemblyInfo.cs
+/Users/newrandom/Projects/Overflow/Overflow/obj/Debug/netcoreapp3.1/Overflow.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/Overflow/Overflow/obj/Debug/netcoreapp3.1/Overflow.dll
+/Users/newrandom/Projects/Overflow/Overflow/obj/Debug/netcoreapp3.1/Overflow.pdb
+/Users/newrandom/Projects/Overflow/Overflow/obj/Debug/netcoreapp3.1/Overflow.genruntimeconfig.cache

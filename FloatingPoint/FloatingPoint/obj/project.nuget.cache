@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mb+UkbQ0OUVcZ4yEYjl9r+UDJzKv2/3CBInuPq7yFiqPcJWj5SeJil9PDSikiRaFlPkP3k+JlLJb7gXVEV1qgg==",
+  "success": true,
+  "projectFilePath": "/Users/newrandom/Projects/FloatingPoint/FloatingPoint/FloatingPoint.csproj",
+  "expectedPackageFiles": [
+    "/Users/newrandom/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
