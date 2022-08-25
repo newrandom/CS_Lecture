@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/Hello/Hello/bin/Debug/net6.0/Hello
+/Users/newrandom/Projects/Hello/Hello/bin/Debug/net6.0/Hello.deps.json
+/Users/newrandom/Projects/Hello/Hello/bin/Debug/net6.0/Hello.runtimeconfig.json
+/Users/newrandom/Projects/Hello/Hello/bin/Debug/net6.0/Hello.dll
+/Users/newrandom/Projects/Hello/Hello/bin/Debug/net6.0/Hello.pdb
+/Users/newrandom/Projects/Hello/Hello/obj/Debug/Hello.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/Hello/Hello/obj/Debug/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/Hello/Hello/obj/Debug/Hello.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/Hello/Hello/obj/Debug/Hello.AssemblyInfo.cs
+/Users/newrandom/Projects/Hello/Hello/obj/Debug/Hello.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/Hello/Hello/obj/Debug/Hello.dll
+/Users/newrandom/Projects/Hello/Hello/obj/Debug/Hello.pdb
+/Users/newrandom/Projects/Hello/Hello/obj/Debug/Hello.genruntimeconfig.cache
+/Users/newrandom/Projects/Hello/Hello/obj/Debug/refint/Hello.dll
+/Users/newrandom/Projects/Hello/Hello/obj/Debug/ref/Hello.dll
