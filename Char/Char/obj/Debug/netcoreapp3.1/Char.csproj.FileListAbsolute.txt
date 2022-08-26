@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/Char/Char/bin/Debug/netcoreapp3.1/Char
+/Users/newrandom/Projects/Char/Char/bin/Debug/netcoreapp3.1/Char.deps.json
+/Users/newrandom/Projects/Char/Char/bin/Debug/netcoreapp3.1/Char.runtimeconfig.json
+/Users/newrandom/Projects/Char/Char/bin/Debug/netcoreapp3.1/Char.runtimeconfig.dev.json
+/Users/newrandom/Projects/Char/Char/bin/Debug/netcoreapp3.1/Char.dll
+/Users/newrandom/Projects/Char/Char/bin/Debug/netcoreapp3.1/Char.pdb
+/Users/newrandom/Projects/Char/Char/obj/Debug/netcoreapp3.1/Char.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/Char/Char/obj/Debug/netcoreapp3.1/Char.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/Char/Char/obj/Debug/netcoreapp3.1/Char.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/Char/Char/obj/Debug/netcoreapp3.1/Char.AssemblyInfo.cs
+/Users/newrandom/Projects/Char/Char/obj/Debug/netcoreapp3.1/Char.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/Char/Char/obj/Debug/netcoreapp3.1/Char.dll
+/Users/newrandom/Projects/Char/Char/obj/Debug/netcoreapp3.1/Char.pdb
+/Users/newrandom/Projects/Char/Char/obj/Debug/netcoreapp3.1/Char.genruntimeconfig.cache
