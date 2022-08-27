@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{CA0E778E-70A4-434B-9B2A-0268473489D0}|Default">
+  <MonoDevelop.Ide.ItemProperties.SignedUnsignedConversion PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SignedUnsignedConversion/Program.cs">
+    <Files>
+      <File FileName="SignedUnsignedConversion/Program.cs" Line="20" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SignedUnsignedConversion" expanded="True">
+            <Node name="SignedUnsignedConversion" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

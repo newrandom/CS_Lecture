@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/FloatConversion/FloatConversion/bin/Debug/netcoreapp3.1/FloatConversion
+/Users/newrandom/Projects/FloatConversion/FloatConversion/bin/Debug/netcoreapp3.1/FloatConversion.deps.json
+/Users/newrandom/Projects/FloatConversion/FloatConversion/bin/Debug/netcoreapp3.1/FloatConversion.runtimeconfig.json
+/Users/newrandom/Projects/FloatConversion/FloatConversion/bin/Debug/netcoreapp3.1/FloatConversion.runtimeconfig.dev.json
+/Users/newrandom/Projects/FloatConversion/FloatConversion/bin/Debug/netcoreapp3.1/FloatConversion.dll
+/Users/newrandom/Projects/FloatConversion/FloatConversion/bin/Debug/netcoreapp3.1/FloatConversion.pdb
+/Users/newrandom/Projects/FloatConversion/FloatConversion/obj/Debug/netcoreapp3.1/FloatConversion.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/FloatConversion/FloatConversion/obj/Debug/netcoreapp3.1/FloatConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/FloatConversion/FloatConversion/obj/Debug/netcoreapp3.1/FloatConversion.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/FloatConversion/FloatConversion/obj/Debug/netcoreapp3.1/FloatConversion.AssemblyInfo.cs
+/Users/newrandom/Projects/FloatConversion/FloatConversion/obj/Debug/netcoreapp3.1/FloatConversion.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/FloatConversion/FloatConversion/obj/Debug/netcoreapp3.1/FloatConversion.dll
+/Users/newrandom/Projects/FloatConversion/FloatConversion/obj/Debug/netcoreapp3.1/FloatConversion.pdb
+/Users/newrandom/Projects/FloatConversion/FloatConversion/obj/Debug/netcoreapp3.1/FloatConversion.genruntimeconfig.cache

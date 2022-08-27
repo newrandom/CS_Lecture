@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "osgnQXnIPD2nDanKzqKghlhO3ddXy0wT9/67byx30L/zG8hT7nQYJcap5a07lk7f4YxU2EHGNNXxlxJclaFNUA==",
+  "success": true,
+  "projectFilePath": "/Users/newrandom/Projects/Bool/Bool/Bool.csproj",
+  "expectedPackageFiles": [
+    "/Users/newrandom/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

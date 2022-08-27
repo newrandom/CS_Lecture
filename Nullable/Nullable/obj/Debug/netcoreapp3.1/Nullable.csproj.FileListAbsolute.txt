@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/Nullable/Nullable/bin/Debug/netcoreapp3.1/Nullable
+/Users/newrandom/Projects/Nullable/Nullable/bin/Debug/netcoreapp3.1/Nullable.deps.json
+/Users/newrandom/Projects/Nullable/Nullable/bin/Debug/netcoreapp3.1/Nullable.runtimeconfig.json
+/Users/newrandom/Projects/Nullable/Nullable/bin/Debug/netcoreapp3.1/Nullable.runtimeconfig.dev.json
+/Users/newrandom/Projects/Nullable/Nullable/bin/Debug/netcoreapp3.1/Nullable.dll
+/Users/newrandom/Projects/Nullable/Nullable/bin/Debug/netcoreapp3.1/Nullable.pdb
+/Users/newrandom/Projects/Nullable/Nullable/obj/Debug/netcoreapp3.1/Nullable.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/Nullable/Nullable/obj/Debug/netcoreapp3.1/Nullable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/Nullable/Nullable/obj/Debug/netcoreapp3.1/Nullable.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/Nullable/Nullable/obj/Debug/netcoreapp3.1/Nullable.AssemblyInfo.cs
+/Users/newrandom/Projects/Nullable/Nullable/obj/Debug/netcoreapp3.1/Nullable.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/Nullable/Nullable/obj/Debug/netcoreapp3.1/Nullable.dll
+/Users/newrandom/Projects/Nullable/Nullable/obj/Debug/netcoreapp3.1/Nullable.pdb
+/Users/newrandom/Projects/Nullable/Nullable/obj/Debug/netcoreapp3.1/Nullable.genruntimeconfig.cache

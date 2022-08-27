@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/SignedUnsignedConversion/SignedUnsignedConversion/bin/Debug/netcoreapp3.1/SignedUnsignedConversion
+/Users/newrandom/Projects/SignedUnsignedConversion/SignedUnsignedConversion/bin/Debug/netcoreapp3.1/SignedUnsignedConversion.deps.json
+/Users/newrandom/Projects/SignedUnsignedConversion/SignedUnsignedConversion/bin/Debug/netcoreapp3.1/SignedUnsignedConversion.runtimeconfig.json
+/Users/newrandom/Projects/SignedUnsignedConversion/SignedUnsignedConversion/bin/Debug/netcoreapp3.1/SignedUnsignedConversion.runtimeconfig.dev.json
+/Users/newrandom/Projects/SignedUnsignedConversion/SignedUnsignedConversion/bin/Debug/netcoreapp3.1/SignedUnsignedConversion.dll
+/Users/newrandom/Projects/SignedUnsignedConversion/SignedUnsignedConversion/bin/Debug/netcoreapp3.1/SignedUnsignedConversion.pdb
+/Users/newrandom/Projects/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/netcoreapp3.1/SignedUnsignedConversion.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/netcoreapp3.1/SignedUnsignedConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/netcoreapp3.1/SignedUnsignedConversion.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/netcoreapp3.1/SignedUnsignedConversion.AssemblyInfo.cs
+/Users/newrandom/Projects/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/netcoreapp3.1/SignedUnsignedConversion.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/netcoreapp3.1/SignedUnsignedConversion.dll
+/Users/newrandom/Projects/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/netcoreapp3.1/SignedUnsignedConversion.pdb
+/Users/newrandom/Projects/SignedUnsignedConversion/SignedUnsignedConversion/obj/Debug/netcoreapp3.1/SignedUnsignedConversion.genruntimeconfig.cache

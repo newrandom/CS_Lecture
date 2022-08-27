@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/CTS/CTS/bin/Debug/netcoreapp3.1/CTS
+/Users/newrandom/Projects/CTS/CTS/bin/Debug/netcoreapp3.1/CTS.deps.json
+/Users/newrandom/Projects/CTS/CTS/bin/Debug/netcoreapp3.1/CTS.runtimeconfig.json
+/Users/newrandom/Projects/CTS/CTS/bin/Debug/netcoreapp3.1/CTS.runtimeconfig.dev.json
+/Users/newrandom/Projects/CTS/CTS/bin/Debug/netcoreapp3.1/CTS.dll
+/Users/newrandom/Projects/CTS/CTS/bin/Debug/netcoreapp3.1/CTS.pdb
+/Users/newrandom/Projects/CTS/CTS/obj/Debug/netcoreapp3.1/CTS.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/CTS/CTS/obj/Debug/netcoreapp3.1/CTS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/CTS/CTS/obj/Debug/netcoreapp3.1/CTS.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/CTS/CTS/obj/Debug/netcoreapp3.1/CTS.AssemblyInfo.cs
+/Users/newrandom/Projects/CTS/CTS/obj/Debug/netcoreapp3.1/CTS.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/CTS/CTS/obj/Debug/netcoreapp3.1/CTS.dll
+/Users/newrandom/Projects/CTS/CTS/obj/Debug/netcoreapp3.1/CTS.pdb
+/Users/newrandom/Projects/CTS/CTS/obj/Debug/netcoreapp3.1/CTS.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CtU1EiSOvqJEzBBz0J8KIpqk1x0vmfBNsubKQhZV9KEV5FuYBM2NxQ165VZSERdafIZ1OYo71tfNtIWoKGWo7Q==",
+  "success": true,
+  "projectFilePath": "/Users/newrandom/Projects/Enum/Enum/Enum.csproj",
+  "expectedPackageFiles": [
+    "/Users/newrandom/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{4FA2803E-8134-4E71-BE06-D34B90A0349C}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bool/Program.cs">
+    <Files>
+      <File FileName="Bool/Program.cs" Line="13" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bool" expanded="True">
+            <Node name="Bool" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Bool PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

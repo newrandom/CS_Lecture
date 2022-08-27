@@ -1,0 +1,5 @@
+/Users/newrandom/Projects/Constant/Constant/obj/Debug/netcoreapp3.1/Constant.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/Constant/Constant/obj/Debug/netcoreapp3.1/Constant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/Constant/Constant/obj/Debug/netcoreapp3.1/Constant.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/Constant/Constant/obj/Debug/netcoreapp3.1/Constant.AssemblyInfo.cs
+/Users/newrandom/Projects/Constant/Constant/obj/Debug/netcoreapp3.1/Constant.csproj.CoreCompileInputs.cache

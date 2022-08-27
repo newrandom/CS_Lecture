@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/FloatToIntegral/FloatToIntegral/bin/Debug/netcoreapp3.1/FloatToIntegral
+/Users/newrandom/Projects/FloatToIntegral/FloatToIntegral/bin/Debug/netcoreapp3.1/FloatToIntegral.deps.json
+/Users/newrandom/Projects/FloatToIntegral/FloatToIntegral/bin/Debug/netcoreapp3.1/FloatToIntegral.runtimeconfig.json
+/Users/newrandom/Projects/FloatToIntegral/FloatToIntegral/bin/Debug/netcoreapp3.1/FloatToIntegral.runtimeconfig.dev.json
+/Users/newrandom/Projects/FloatToIntegral/FloatToIntegral/bin/Debug/netcoreapp3.1/FloatToIntegral.dll
+/Users/newrandom/Projects/FloatToIntegral/FloatToIntegral/bin/Debug/netcoreapp3.1/FloatToIntegral.pdb
+/Users/newrandom/Projects/FloatToIntegral/FloatToIntegral/obj/Debug/netcoreapp3.1/FloatToIntegral.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/FloatToIntegral/FloatToIntegral/obj/Debug/netcoreapp3.1/FloatToIntegral.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/FloatToIntegral/FloatToIntegral/obj/Debug/netcoreapp3.1/FloatToIntegral.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/FloatToIntegral/FloatToIntegral/obj/Debug/netcoreapp3.1/FloatToIntegral.AssemblyInfo.cs
+/Users/newrandom/Projects/FloatToIntegral/FloatToIntegral/obj/Debug/netcoreapp3.1/FloatToIntegral.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/FloatToIntegral/FloatToIntegral/obj/Debug/netcoreapp3.1/FloatToIntegral.dll
+/Users/newrandom/Projects/FloatToIntegral/FloatToIntegral/obj/Debug/netcoreapp3.1/FloatToIntegral.pdb
+/Users/newrandom/Projects/FloatToIntegral/FloatToIntegral/obj/Debug/netcoreapp3.1/FloatToIntegral.genruntimeconfig.cache
