@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/StringSearch/StringSearch/bin/Debug/netcoreapp3.1/StringSearch
+/Users/newrandom/Projects/StringSearch/StringSearch/bin/Debug/netcoreapp3.1/StringSearch.deps.json
+/Users/newrandom/Projects/StringSearch/StringSearch/bin/Debug/netcoreapp3.1/StringSearch.runtimeconfig.json
+/Users/newrandom/Projects/StringSearch/StringSearch/bin/Debug/netcoreapp3.1/StringSearch.runtimeconfig.dev.json
+/Users/newrandom/Projects/StringSearch/StringSearch/bin/Debug/netcoreapp3.1/StringSearch.dll
+/Users/newrandom/Projects/StringSearch/StringSearch/bin/Debug/netcoreapp3.1/StringSearch.pdb
+/Users/newrandom/Projects/StringSearch/StringSearch/obj/Debug/netcoreapp3.1/StringSearch.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/StringSearch/StringSearch/obj/Debug/netcoreapp3.1/StringSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/StringSearch/StringSearch/obj/Debug/netcoreapp3.1/StringSearch.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/StringSearch/StringSearch/obj/Debug/netcoreapp3.1/StringSearch.AssemblyInfo.cs
+/Users/newrandom/Projects/StringSearch/StringSearch/obj/Debug/netcoreapp3.1/StringSearch.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/StringSearch/StringSearch/obj/Debug/netcoreapp3.1/StringSearch.dll
+/Users/newrandom/Projects/StringSearch/StringSearch/obj/Debug/netcoreapp3.1/StringSearch.pdb
+/Users/newrandom/Projects/StringSearch/StringSearch/obj/Debug/netcoreapp3.1/StringSearch.genruntimeconfig.cache

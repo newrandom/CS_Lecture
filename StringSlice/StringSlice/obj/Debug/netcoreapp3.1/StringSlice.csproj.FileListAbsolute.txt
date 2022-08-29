@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/StringSlice/StringSlice/bin/Debug/netcoreapp3.1/StringSlice
+/Users/newrandom/Projects/StringSlice/StringSlice/bin/Debug/netcoreapp3.1/StringSlice.deps.json
+/Users/newrandom/Projects/StringSlice/StringSlice/bin/Debug/netcoreapp3.1/StringSlice.runtimeconfig.json
+/Users/newrandom/Projects/StringSlice/StringSlice/bin/Debug/netcoreapp3.1/StringSlice.runtimeconfig.dev.json
+/Users/newrandom/Projects/StringSlice/StringSlice/bin/Debug/netcoreapp3.1/StringSlice.dll
+/Users/newrandom/Projects/StringSlice/StringSlice/bin/Debug/netcoreapp3.1/StringSlice.pdb
+/Users/newrandom/Projects/StringSlice/StringSlice/obj/Debug/netcoreapp3.1/StringSlice.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/StringSlice/StringSlice/obj/Debug/netcoreapp3.1/StringSlice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/StringSlice/StringSlice/obj/Debug/netcoreapp3.1/StringSlice.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/StringSlice/StringSlice/obj/Debug/netcoreapp3.1/StringSlice.AssemblyInfo.cs
+/Users/newrandom/Projects/StringSlice/StringSlice/obj/Debug/netcoreapp3.1/StringSlice.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/StringSlice/StringSlice/obj/Debug/netcoreapp3.1/StringSlice.dll
+/Users/newrandom/Projects/StringSlice/StringSlice/obj/Debug/netcoreapp3.1/StringSlice.pdb
+/Users/newrandom/Projects/StringSlice/StringSlice/obj/Debug/netcoreapp3.1/StringSlice.genruntimeconfig.cache

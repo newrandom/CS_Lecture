@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/StringFormatBasic/StringFormatBasic/bin/Debug/netcoreapp3.1/StringFormatBasic
+/Users/newrandom/Projects/StringFormatBasic/StringFormatBasic/bin/Debug/netcoreapp3.1/StringFormatBasic.deps.json
+/Users/newrandom/Projects/StringFormatBasic/StringFormatBasic/bin/Debug/netcoreapp3.1/StringFormatBasic.runtimeconfig.json
+/Users/newrandom/Projects/StringFormatBasic/StringFormatBasic/bin/Debug/netcoreapp3.1/StringFormatBasic.runtimeconfig.dev.json
+/Users/newrandom/Projects/StringFormatBasic/StringFormatBasic/bin/Debug/netcoreapp3.1/StringFormatBasic.dll
+/Users/newrandom/Projects/StringFormatBasic/StringFormatBasic/bin/Debug/netcoreapp3.1/StringFormatBasic.pdb
+/Users/newrandom/Projects/StringFormatBasic/StringFormatBasic/obj/Debug/netcoreapp3.1/StringFormatBasic.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/StringFormatBasic/StringFormatBasic/obj/Debug/netcoreapp3.1/StringFormatBasic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/StringFormatBasic/StringFormatBasic/obj/Debug/netcoreapp3.1/StringFormatBasic.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/StringFormatBasic/StringFormatBasic/obj/Debug/netcoreapp3.1/StringFormatBasic.AssemblyInfo.cs
+/Users/newrandom/Projects/StringFormatBasic/StringFormatBasic/obj/Debug/netcoreapp3.1/StringFormatBasic.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/StringFormatBasic/StringFormatBasic/obj/Debug/netcoreapp3.1/StringFormatBasic.dll
+/Users/newrandom/Projects/StringFormatBasic/StringFormatBasic/obj/Debug/netcoreapp3.1/StringFormatBasic.pdb
+/Users/newrandom/Projects/StringFormatBasic/StringFormatBasic/obj/Debug/netcoreapp3.1/StringFormatBasic.genruntimeconfig.cache
