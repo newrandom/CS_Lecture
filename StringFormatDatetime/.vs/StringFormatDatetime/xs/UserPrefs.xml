@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5840F009-3A33-49B2-9C93-01D08698E48A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringFormatDatetime/Program.cs">
+    <Files>
+      <File FileName="StringFormatDatetime/Program.cs" Line="26" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringFormatDatetime" expanded="True">
+            <Node name="StringFormatDatetime" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.StringFormatDatetime PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

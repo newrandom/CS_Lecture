@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HbAf/4ftbt1TRiEZPu+QuX4PjOlddek0PHBwCl12txNRHc+UhU5ryK54OZdJ9SNJbbWa2iH1JlSqBgGvL1c8QA==",
+  "success": true,
+  "projectFilePath": "/Users/newrandom/Projects/StringInterpolation/StringInterpolation/StringInterpolation.csproj",
+  "expectedPackageFiles": [
+    "/Users/newrandom/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

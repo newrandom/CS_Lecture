@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/StringInterpolation/StringInterpolation/bin/Debug/netcoreapp3.1/StringInterpolation
+/Users/newrandom/Projects/StringInterpolation/StringInterpolation/bin/Debug/netcoreapp3.1/StringInterpolation.deps.json
+/Users/newrandom/Projects/StringInterpolation/StringInterpolation/bin/Debug/netcoreapp3.1/StringInterpolation.runtimeconfig.json
+/Users/newrandom/Projects/StringInterpolation/StringInterpolation/bin/Debug/netcoreapp3.1/StringInterpolation.runtimeconfig.dev.json
+/Users/newrandom/Projects/StringInterpolation/StringInterpolation/bin/Debug/netcoreapp3.1/StringInterpolation.dll
+/Users/newrandom/Projects/StringInterpolation/StringInterpolation/bin/Debug/netcoreapp3.1/StringInterpolation.pdb
+/Users/newrandom/Projects/StringInterpolation/StringInterpolation/obj/Debug/netcoreapp3.1/StringInterpolation.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/StringInterpolation/StringInterpolation/obj/Debug/netcoreapp3.1/StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/StringInterpolation/StringInterpolation/obj/Debug/netcoreapp3.1/StringInterpolation.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/StringInterpolation/StringInterpolation/obj/Debug/netcoreapp3.1/StringInterpolation.AssemblyInfo.cs
+/Users/newrandom/Projects/StringInterpolation/StringInterpolation/obj/Debug/netcoreapp3.1/StringInterpolation.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/StringInterpolation/StringInterpolation/obj/Debug/netcoreapp3.1/StringInterpolation.dll
+/Users/newrandom/Projects/StringInterpolation/StringInterpolation/obj/Debug/netcoreapp3.1/StringInterpolation.pdb
+/Users/newrandom/Projects/StringInterpolation/StringInterpolation/obj/Debug/netcoreapp3.1/StringInterpolation.genruntimeconfig.cache
