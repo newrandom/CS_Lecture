@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{4DDA280A-30FD-47D4-814F-02CFAFD4A078}|Default">
-  <MonoDevelop.Ide.ItemProperties.InfiniteWhile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.InfiniteWhile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="InfiniteWhile/Program.cs">
     <Files>
       <File FileName="InfiniteWhile/Program.cs" Line="16" Column="1" />
@@ -22,5 +23,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
 </Properties>

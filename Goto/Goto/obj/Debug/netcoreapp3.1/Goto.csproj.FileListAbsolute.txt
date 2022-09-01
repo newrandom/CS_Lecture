@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/Goto/Goto/bin/Debug/netcoreapp3.1/Goto
+/Users/newrandom/Projects/Goto/Goto/bin/Debug/netcoreapp3.1/Goto.deps.json
+/Users/newrandom/Projects/Goto/Goto/bin/Debug/netcoreapp3.1/Goto.runtimeconfig.json
+/Users/newrandom/Projects/Goto/Goto/bin/Debug/netcoreapp3.1/Goto.runtimeconfig.dev.json
+/Users/newrandom/Projects/Goto/Goto/bin/Debug/netcoreapp3.1/Goto.dll
+/Users/newrandom/Projects/Goto/Goto/bin/Debug/netcoreapp3.1/Goto.pdb
+/Users/newrandom/Projects/Goto/Goto/obj/Debug/netcoreapp3.1/Goto.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/Goto/Goto/obj/Debug/netcoreapp3.1/Goto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/Goto/Goto/obj/Debug/netcoreapp3.1/Goto.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/Goto/Goto/obj/Debug/netcoreapp3.1/Goto.AssemblyInfo.cs
+/Users/newrandom/Projects/Goto/Goto/obj/Debug/netcoreapp3.1/Goto.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/Goto/Goto/obj/Debug/netcoreapp3.1/Goto.dll
+/Users/newrandom/Projects/Goto/Goto/obj/Debug/netcoreapp3.1/Goto.pdb
+/Users/newrandom/Projects/Goto/Goto/obj/Debug/netcoreapp3.1/Goto.genruntimeconfig.cache
