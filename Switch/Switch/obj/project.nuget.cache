@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XPjkOj41HF+1ENXtEmvAnBn5BrI4Yzd8IJGlsMSQ0DVtDUWpmZ4QAs2vOEbfoafLjWrGuc4yV6NlnyZ+9hE8tg==",
+  "success": true,
+  "projectFilePath": "/Users/newrandom/Projects/Switch/Switch/Switch.csproj",
+  "expectedPackageFiles": [
+    "/Users/newrandom/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

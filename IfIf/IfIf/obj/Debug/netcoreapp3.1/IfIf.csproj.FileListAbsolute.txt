@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/IfIf/IfIf/bin/Debug/netcoreapp3.1/IfIf
+/Users/newrandom/Projects/IfIf/IfIf/bin/Debug/netcoreapp3.1/IfIf.deps.json
+/Users/newrandom/Projects/IfIf/IfIf/bin/Debug/netcoreapp3.1/IfIf.runtimeconfig.json
+/Users/newrandom/Projects/IfIf/IfIf/bin/Debug/netcoreapp3.1/IfIf.runtimeconfig.dev.json
+/Users/newrandom/Projects/IfIf/IfIf/bin/Debug/netcoreapp3.1/IfIf.dll
+/Users/newrandom/Projects/IfIf/IfIf/bin/Debug/netcoreapp3.1/IfIf.pdb
+/Users/newrandom/Projects/IfIf/IfIf/obj/Debug/netcoreapp3.1/IfIf.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/IfIf/IfIf/obj/Debug/netcoreapp3.1/IfIf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/IfIf/IfIf/obj/Debug/netcoreapp3.1/IfIf.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/IfIf/IfIf/obj/Debug/netcoreapp3.1/IfIf.AssemblyInfo.cs
+/Users/newrandom/Projects/IfIf/IfIf/obj/Debug/netcoreapp3.1/IfIf.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/IfIf/IfIf/obj/Debug/netcoreapp3.1/IfIf.dll
+/Users/newrandom/Projects/IfIf/IfIf/obj/Debug/netcoreapp3.1/IfIf.pdb
+/Users/newrandom/Projects/IfIf/IfIf/obj/Debug/netcoreapp3.1/IfIf.genruntimeconfig.cache
