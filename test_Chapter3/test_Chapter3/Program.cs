@@ -18,10 +18,8 @@ namespace test_Chapter3
             int w = Convert.ToInt32(width);
             int h = Convert.ToInt32(height);
             // 사각형의 넓이는 가로 * 세로
-            WriteLine("{0} * {1} = {2}",w,h,w*h);       // format 방식
-            WriteLine($"{w} * {h} = {w * h}");          // 문자열 보간
-
-            
+            WriteLine("사각형의 넓이는 : {0} * {1} = {2}",w,h,w*h);       // format 방식
+            WriteLine($"사각형의 넓이는 : {w} * {h} = {w * h}");          // 문자열 보간   
         }
     }
 }

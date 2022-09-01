@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H6rwVBcbP/1y72tGcN6UjdUp9g3iBCGP4hn68a+Uy6H7fgTYInvcSI4CpPyV4foSQ9sKcE8sGOwOHb1vpzX5TQ==",
+  "success": true,
+  "projectFilePath": "/Users/newrandom/Projects/NullConditionalOperator/NullConditionalOperator/NullConditionalOperator.csproj",
+  "expectedPackageFiles": [
+    "/Users/newrandom/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

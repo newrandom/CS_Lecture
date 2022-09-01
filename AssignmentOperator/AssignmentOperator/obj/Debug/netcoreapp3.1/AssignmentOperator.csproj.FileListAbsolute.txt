@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/AssignmentOperator/AssignmentOperator/bin/Debug/netcoreapp3.1/AssignmentOperator
+/Users/newrandom/Projects/AssignmentOperator/AssignmentOperator/bin/Debug/netcoreapp3.1/AssignmentOperator.deps.json
+/Users/newrandom/Projects/AssignmentOperator/AssignmentOperator/bin/Debug/netcoreapp3.1/AssignmentOperator.runtimeconfig.json
+/Users/newrandom/Projects/AssignmentOperator/AssignmentOperator/bin/Debug/netcoreapp3.1/AssignmentOperator.runtimeconfig.dev.json
+/Users/newrandom/Projects/AssignmentOperator/AssignmentOperator/bin/Debug/netcoreapp3.1/AssignmentOperator.dll
+/Users/newrandom/Projects/AssignmentOperator/AssignmentOperator/bin/Debug/netcoreapp3.1/AssignmentOperator.pdb
+/Users/newrandom/Projects/AssignmentOperator/AssignmentOperator/obj/Debug/netcoreapp3.1/AssignmentOperator.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/AssignmentOperator/AssignmentOperator/obj/Debug/netcoreapp3.1/AssignmentOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/AssignmentOperator/AssignmentOperator/obj/Debug/netcoreapp3.1/AssignmentOperator.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/AssignmentOperator/AssignmentOperator/obj/Debug/netcoreapp3.1/AssignmentOperator.AssemblyInfo.cs
+/Users/newrandom/Projects/AssignmentOperator/AssignmentOperator/obj/Debug/netcoreapp3.1/AssignmentOperator.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/AssignmentOperator/AssignmentOperator/obj/Debug/netcoreapp3.1/AssignmentOperator.dll
+/Users/newrandom/Projects/AssignmentOperator/AssignmentOperator/obj/Debug/netcoreapp3.1/AssignmentOperator.pdb
+/Users/newrandom/Projects/AssignmentOperator/AssignmentOperator/obj/Debug/netcoreapp3.1/AssignmentOperator.genruntimeconfig.cache

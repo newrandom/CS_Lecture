@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/test_chapter4/test_chapter4/bin/Debug/netcoreapp3.1/test_chapter4
+/Users/newrandom/Projects/test_chapter4/test_chapter4/bin/Debug/netcoreapp3.1/test_chapter4.deps.json
+/Users/newrandom/Projects/test_chapter4/test_chapter4/bin/Debug/netcoreapp3.1/test_chapter4.runtimeconfig.json
+/Users/newrandom/Projects/test_chapter4/test_chapter4/bin/Debug/netcoreapp3.1/test_chapter4.runtimeconfig.dev.json
+/Users/newrandom/Projects/test_chapter4/test_chapter4/bin/Debug/netcoreapp3.1/test_chapter4.dll
+/Users/newrandom/Projects/test_chapter4/test_chapter4/bin/Debug/netcoreapp3.1/test_chapter4.pdb
+/Users/newrandom/Projects/test_chapter4/test_chapter4/obj/Debug/netcoreapp3.1/test_chapter4.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/test_chapter4/test_chapter4/obj/Debug/netcoreapp3.1/test_chapter4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/test_chapter4/test_chapter4/obj/Debug/netcoreapp3.1/test_chapter4.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/test_chapter4/test_chapter4/obj/Debug/netcoreapp3.1/test_chapter4.AssemblyInfo.cs
+/Users/newrandom/Projects/test_chapter4/test_chapter4/obj/Debug/netcoreapp3.1/test_chapter4.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/test_chapter4/test_chapter4/obj/Debug/netcoreapp3.1/test_chapter4.dll
+/Users/newrandom/Projects/test_chapter4/test_chapter4/obj/Debug/netcoreapp3.1/test_chapter4.pdb
+/Users/newrandom/Projects/test_chapter4/test_chapter4/obj/Debug/netcoreapp3.1/test_chapter4.genruntimeconfig.cache

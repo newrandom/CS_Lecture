@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/IncDecOperator/IncDecOperator/bin/Debug/netcoreapp3.1/IncDecOperator
+/Users/newrandom/Projects/IncDecOperator/IncDecOperator/bin/Debug/netcoreapp3.1/IncDecOperator.deps.json
+/Users/newrandom/Projects/IncDecOperator/IncDecOperator/bin/Debug/netcoreapp3.1/IncDecOperator.runtimeconfig.json
+/Users/newrandom/Projects/IncDecOperator/IncDecOperator/bin/Debug/netcoreapp3.1/IncDecOperator.runtimeconfig.dev.json
+/Users/newrandom/Projects/IncDecOperator/IncDecOperator/bin/Debug/netcoreapp3.1/IncDecOperator.dll
+/Users/newrandom/Projects/IncDecOperator/IncDecOperator/bin/Debug/netcoreapp3.1/IncDecOperator.pdb
+/Users/newrandom/Projects/IncDecOperator/IncDecOperator/obj/Debug/netcoreapp3.1/IncDecOperator.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/IncDecOperator/IncDecOperator/obj/Debug/netcoreapp3.1/IncDecOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/IncDecOperator/IncDecOperator/obj/Debug/netcoreapp3.1/IncDecOperator.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/IncDecOperator/IncDecOperator/obj/Debug/netcoreapp3.1/IncDecOperator.AssemblyInfo.cs
+/Users/newrandom/Projects/IncDecOperator/IncDecOperator/obj/Debug/netcoreapp3.1/IncDecOperator.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/IncDecOperator/IncDecOperator/obj/Debug/netcoreapp3.1/IncDecOperator.dll
+/Users/newrandom/Projects/IncDecOperator/IncDecOperator/obj/Debug/netcoreapp3.1/IncDecOperator.pdb
+/Users/newrandom/Projects/IncDecOperator/IncDecOperator/obj/Debug/netcoreapp3.1/IncDecOperator.genruntimeconfig.cache

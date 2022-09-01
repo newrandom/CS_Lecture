@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/IfElse/IfElse/bin/Debug/netcoreapp3.1/IfElse
+/Users/newrandom/Projects/IfElse/IfElse/bin/Debug/netcoreapp3.1/IfElse.deps.json
+/Users/newrandom/Projects/IfElse/IfElse/bin/Debug/netcoreapp3.1/IfElse.runtimeconfig.json
+/Users/newrandom/Projects/IfElse/IfElse/bin/Debug/netcoreapp3.1/IfElse.runtimeconfig.dev.json
+/Users/newrandom/Projects/IfElse/IfElse/bin/Debug/netcoreapp3.1/IfElse.dll
+/Users/newrandom/Projects/IfElse/IfElse/bin/Debug/netcoreapp3.1/IfElse.pdb
+/Users/newrandom/Projects/IfElse/IfElse/obj/Debug/netcoreapp3.1/IfElse.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/IfElse/IfElse/obj/Debug/netcoreapp3.1/IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/IfElse/IfElse/obj/Debug/netcoreapp3.1/IfElse.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/IfElse/IfElse/obj/Debug/netcoreapp3.1/IfElse.AssemblyInfo.cs
+/Users/newrandom/Projects/IfElse/IfElse/obj/Debug/netcoreapp3.1/IfElse.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/IfElse/IfElse/obj/Debug/netcoreapp3.1/IfElse.dll
+/Users/newrandom/Projects/IfElse/IfElse/obj/Debug/netcoreapp3.1/IfElse.pdb
+/Users/newrandom/Projects/IfElse/IfElse/obj/Debug/netcoreapp3.1/IfElse.genruntimeconfig.cache

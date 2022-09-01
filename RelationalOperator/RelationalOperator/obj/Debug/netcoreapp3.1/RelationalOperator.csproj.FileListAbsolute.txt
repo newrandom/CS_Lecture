@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/RelationalOperator/RelationalOperator/bin/Debug/netcoreapp3.1/RelationalOperator
+/Users/newrandom/Projects/RelationalOperator/RelationalOperator/bin/Debug/netcoreapp3.1/RelationalOperator.deps.json
+/Users/newrandom/Projects/RelationalOperator/RelationalOperator/bin/Debug/netcoreapp3.1/RelationalOperator.runtimeconfig.json
+/Users/newrandom/Projects/RelationalOperator/RelationalOperator/bin/Debug/netcoreapp3.1/RelationalOperator.runtimeconfig.dev.json
+/Users/newrandom/Projects/RelationalOperator/RelationalOperator/bin/Debug/netcoreapp3.1/RelationalOperator.dll
+/Users/newrandom/Projects/RelationalOperator/RelationalOperator/bin/Debug/netcoreapp3.1/RelationalOperator.pdb
+/Users/newrandom/Projects/RelationalOperator/RelationalOperator/obj/Debug/netcoreapp3.1/RelationalOperator.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/RelationalOperator/RelationalOperator/obj/Debug/netcoreapp3.1/RelationalOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/RelationalOperator/RelationalOperator/obj/Debug/netcoreapp3.1/RelationalOperator.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/RelationalOperator/RelationalOperator/obj/Debug/netcoreapp3.1/RelationalOperator.AssemblyInfo.cs
+/Users/newrandom/Projects/RelationalOperator/RelationalOperator/obj/Debug/netcoreapp3.1/RelationalOperator.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/RelationalOperator/RelationalOperator/obj/Debug/netcoreapp3.1/RelationalOperator.dll
+/Users/newrandom/Projects/RelationalOperator/RelationalOperator/obj/Debug/netcoreapp3.1/RelationalOperator.pdb
+/Users/newrandom/Projects/RelationalOperator/RelationalOperator/obj/Debug/netcoreapp3.1/RelationalOperator.genruntimeconfig.cache

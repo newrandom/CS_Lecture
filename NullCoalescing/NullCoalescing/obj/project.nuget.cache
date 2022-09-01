@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gzLHrzRO0+38HnawiVUp7PO6kR6CSDum81SgP7CnQ5I2unHfzUA7UlOajIrbPuNR67JVCt0Dxa+UDH/3Hw12xA==",
+  "success": true,
+  "projectFilePath": "/Users/newrandom/Projects/NullCoalescing/NullCoalescing/NullCoalescing.csproj",
+  "expectedPackageFiles": [
+    "/Users/newrandom/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

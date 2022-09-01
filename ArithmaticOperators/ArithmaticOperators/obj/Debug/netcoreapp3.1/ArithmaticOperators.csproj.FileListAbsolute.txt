@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/ArithmaticOperators/ArithmaticOperators/bin/Debug/netcoreapp3.1/ArithmaticOperators
+/Users/newrandom/Projects/ArithmaticOperators/ArithmaticOperators/bin/Debug/netcoreapp3.1/ArithmaticOperators.deps.json
+/Users/newrandom/Projects/ArithmaticOperators/ArithmaticOperators/bin/Debug/netcoreapp3.1/ArithmaticOperators.runtimeconfig.json
+/Users/newrandom/Projects/ArithmaticOperators/ArithmaticOperators/bin/Debug/netcoreapp3.1/ArithmaticOperators.runtimeconfig.dev.json
+/Users/newrandom/Projects/ArithmaticOperators/ArithmaticOperators/bin/Debug/netcoreapp3.1/ArithmaticOperators.dll
+/Users/newrandom/Projects/ArithmaticOperators/ArithmaticOperators/bin/Debug/netcoreapp3.1/ArithmaticOperators.pdb
+/Users/newrandom/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/netcoreapp3.1/ArithmaticOperators.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/netcoreapp3.1/ArithmaticOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/netcoreapp3.1/ArithmaticOperators.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/netcoreapp3.1/ArithmaticOperators.AssemblyInfo.cs
+/Users/newrandom/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/netcoreapp3.1/ArithmaticOperators.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/netcoreapp3.1/ArithmaticOperators.dll
+/Users/newrandom/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/netcoreapp3.1/ArithmaticOperators.pdb
+/Users/newrandom/Projects/ArithmaticOperators/ArithmaticOperators/obj/Debug/netcoreapp3.1/ArithmaticOperators.genruntimeconfig.cache

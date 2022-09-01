@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8h9vAOQo+BaOy5RhJ7jh08Zbw4pdm5QRtaI8n8HGSR47drD+O3jE3viK3uz2zjyCT9625n09e5wYonG0xDFQIA==",
+  "success": true,
+  "projectFilePath": "/Users/newrandom/Projects/LogicalOperator/LogicalOperator/LogicalOperator.csproj",
+  "expectedPackageFiles": [
+    "/Users/newrandom/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
