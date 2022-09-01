@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/ForFor/ForFor/bin/Debug/netcoreapp3.1/ForFor
+/Users/newrandom/Projects/ForFor/ForFor/bin/Debug/netcoreapp3.1/ForFor.deps.json
+/Users/newrandom/Projects/ForFor/ForFor/bin/Debug/netcoreapp3.1/ForFor.runtimeconfig.json
+/Users/newrandom/Projects/ForFor/ForFor/bin/Debug/netcoreapp3.1/ForFor.runtimeconfig.dev.json
+/Users/newrandom/Projects/ForFor/ForFor/bin/Debug/netcoreapp3.1/ForFor.dll
+/Users/newrandom/Projects/ForFor/ForFor/bin/Debug/netcoreapp3.1/ForFor.pdb
+/Users/newrandom/Projects/ForFor/ForFor/obj/Debug/netcoreapp3.1/ForFor.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/ForFor/ForFor/obj/Debug/netcoreapp3.1/ForFor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/ForFor/ForFor/obj/Debug/netcoreapp3.1/ForFor.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/ForFor/ForFor/obj/Debug/netcoreapp3.1/ForFor.AssemblyInfo.cs
+/Users/newrandom/Projects/ForFor/ForFor/obj/Debug/netcoreapp3.1/ForFor.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/ForFor/ForFor/obj/Debug/netcoreapp3.1/ForFor.dll
+/Users/newrandom/Projects/ForFor/ForFor/obj/Debug/netcoreapp3.1/ForFor.pdb
+/Users/newrandom/Projects/ForFor/ForFor/obj/Debug/netcoreapp3.1/ForFor.genruntimeconfig.cache

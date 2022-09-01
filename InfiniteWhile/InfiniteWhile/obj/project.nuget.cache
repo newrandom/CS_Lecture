@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UpsNQ3cP8gBLOwT+uuWbiI03xnWd0FhPY19DmE51p/jB7IgM8jyzckmbpo09AC52MVUsFkjDh1x8Bqsi3b5E+g==",
+  "success": true,
+  "projectFilePath": "/Users/newrandom/Projects/InfiniteWhile/InfiniteWhile/InfiniteWhile.csproj",
+  "expectedPackageFiles": [
+    "/Users/newrandom/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

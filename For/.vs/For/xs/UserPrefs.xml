@@ -1,19 +1,19 @@
-﻿<Properties StartupConfiguration="{D38FCA6C-1750-44E2-B329-526ADA85A6B4}|Default">
-  <MonoDevelop.Ide.ItemProperties.Switch2 PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{9257B42C-04A3-4D47-8598-327218C8BF4A}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.For PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Switch2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="For/Program.cs">
     <Files>
-      <File FileName="Switch2/Program.cs" Line="25" Column="64" />
+      <File FileName="For/Program.cs" Line="12" Column="64" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Switch2" expanded="True">
-            <Node name="Switch2" expanded="True" />
+          <Node name="For" expanded="True">
+            <Node name="For" expanded="True" />
           </Node>
         </State>
       </Pad>

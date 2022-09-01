@@ -1,19 +1,19 @@
-﻿<Properties StartupConfiguration="{D38FCA6C-1750-44E2-B329-526ADA85A6B4}|Default">
-  <MonoDevelop.Ide.ItemProperties.Switch2 PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{4DDA280A-30FD-47D4-814F-02CFAFD4A078}|Default">
+  <MonoDevelop.Ide.ItemProperties.InfiniteWhile PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Switch2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InfiniteWhile/Program.cs">
     <Files>
-      <File FileName="Switch2/Program.cs" Line="25" Column="64" />
+      <File FileName="InfiniteWhile/Program.cs" Line="16" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Switch2" expanded="True">
-            <Node name="Switch2" expanded="True" />
+          <Node name="InfiniteWhile" expanded="True">
+            <Node name="InfiniteWhile" expanded="True" />
           </Node>
         </State>
       </Pad>

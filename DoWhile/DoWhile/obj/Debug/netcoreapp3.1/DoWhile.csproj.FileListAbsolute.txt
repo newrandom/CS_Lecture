@@ -1,0 +1,14 @@
+/Users/newrandom/Projects/DoWhile/DoWhile/bin/Debug/netcoreapp3.1/DoWhile
+/Users/newrandom/Projects/DoWhile/DoWhile/bin/Debug/netcoreapp3.1/DoWhile.deps.json
+/Users/newrandom/Projects/DoWhile/DoWhile/bin/Debug/netcoreapp3.1/DoWhile.runtimeconfig.json
+/Users/newrandom/Projects/DoWhile/DoWhile/bin/Debug/netcoreapp3.1/DoWhile.runtimeconfig.dev.json
+/Users/newrandom/Projects/DoWhile/DoWhile/bin/Debug/netcoreapp3.1/DoWhile.dll
+/Users/newrandom/Projects/DoWhile/DoWhile/bin/Debug/netcoreapp3.1/DoWhile.pdb
+/Users/newrandom/Projects/DoWhile/DoWhile/obj/Debug/netcoreapp3.1/DoWhile.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/DoWhile/DoWhile/obj/Debug/netcoreapp3.1/DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/DoWhile/DoWhile/obj/Debug/netcoreapp3.1/DoWhile.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/DoWhile/DoWhile/obj/Debug/netcoreapp3.1/DoWhile.AssemblyInfo.cs
+/Users/newrandom/Projects/DoWhile/DoWhile/obj/Debug/netcoreapp3.1/DoWhile.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/DoWhile/DoWhile/obj/Debug/netcoreapp3.1/DoWhile.dll
+/Users/newrandom/Projects/DoWhile/DoWhile/obj/Debug/netcoreapp3.1/DoWhile.pdb
+/Users/newrandom/Projects/DoWhile/DoWhile/obj/Debug/netcoreapp3.1/DoWhile.genruntimeconfig.cache
