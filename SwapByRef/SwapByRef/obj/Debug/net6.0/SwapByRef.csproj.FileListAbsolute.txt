@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/SwapByRef/SwapByRef/obj/Debug/net6.0/SwapByRef.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/SwapByRef/SwapByRef/obj/Debug/net6.0/SwapByRef.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/SwapByRef/SwapByRef/obj/Debug/net6.0/SwapByRef.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/SwapByRef/SwapByRef/obj/Debug/net6.0/SwapByRef.AssemblyInfo.cs
+/Users/newrandom/Projects/SwapByRef/SwapByRef/obj/Debug/net6.0/SwapByRef.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/SwapByRef/SwapByRef/bin/Debug/net6.0/SwapByRef
+/Users/newrandom/Projects/SwapByRef/SwapByRef/bin/Debug/net6.0/SwapByRef.deps.json
+/Users/newrandom/Projects/SwapByRef/SwapByRef/bin/Debug/net6.0/SwapByRef.runtimeconfig.json
+/Users/newrandom/Projects/SwapByRef/SwapByRef/bin/Debug/net6.0/SwapByRef.dll
+/Users/newrandom/Projects/SwapByRef/SwapByRef/bin/Debug/net6.0/SwapByRef.pdb
+/Users/newrandom/Projects/SwapByRef/SwapByRef/obj/Debug/net6.0/SwapByRef.dll
+/Users/newrandom/Projects/SwapByRef/SwapByRef/obj/Debug/net6.0/refint/SwapByRef.dll
+/Users/newrandom/Projects/SwapByRef/SwapByRef/obj/Debug/net6.0/SwapByRef.pdb
+/Users/newrandom/Projects/SwapByRef/SwapByRef/obj/Debug/net6.0/SwapByRef.genruntimeconfig.cache
+/Users/newrandom/Projects/SwapByRef/SwapByRef/obj/Debug/net6.0/ref/SwapByRef.dll

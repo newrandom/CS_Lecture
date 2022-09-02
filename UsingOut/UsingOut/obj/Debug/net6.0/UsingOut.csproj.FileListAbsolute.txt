@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/UsingOut/UsingOut/bin/Debug/net6.0/UsingOut
+/Users/newrandom/Projects/UsingOut/UsingOut/bin/Debug/net6.0/UsingOut.deps.json
+/Users/newrandom/Projects/UsingOut/UsingOut/bin/Debug/net6.0/UsingOut.runtimeconfig.json
+/Users/newrandom/Projects/UsingOut/UsingOut/bin/Debug/net6.0/UsingOut.dll
+/Users/newrandom/Projects/UsingOut/UsingOut/bin/Debug/net6.0/UsingOut.pdb
+/Users/newrandom/Projects/UsingOut/UsingOut/obj/Debug/net6.0/UsingOut.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/UsingOut/UsingOut/obj/Debug/net6.0/UsingOut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/UsingOut/UsingOut/obj/Debug/net6.0/UsingOut.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/UsingOut/UsingOut/obj/Debug/net6.0/UsingOut.AssemblyInfo.cs
+/Users/newrandom/Projects/UsingOut/UsingOut/obj/Debug/net6.0/UsingOut.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/UsingOut/UsingOut/obj/Debug/net6.0/UsingOut.dll
+/Users/newrandom/Projects/UsingOut/UsingOut/obj/Debug/net6.0/refint/UsingOut.dll
+/Users/newrandom/Projects/UsingOut/UsingOut/obj/Debug/net6.0/UsingOut.pdb
+/Users/newrandom/Projects/UsingOut/UsingOut/obj/Debug/net6.0/UsingOut.genruntimeconfig.cache
+/Users/newrandom/Projects/UsingOut/UsingOut/obj/Debug/net6.0/ref/UsingOut.dll

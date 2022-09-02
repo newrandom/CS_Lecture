@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/SwapByValue/SwapByValue/bin/Debug/net6.0/SwapByValue
+/Users/newrandom/Projects/SwapByValue/SwapByValue/bin/Debug/net6.0/SwapByValue.deps.json
+/Users/newrandom/Projects/SwapByValue/SwapByValue/bin/Debug/net6.0/SwapByValue.runtimeconfig.json
+/Users/newrandom/Projects/SwapByValue/SwapByValue/bin/Debug/net6.0/SwapByValue.dll
+/Users/newrandom/Projects/SwapByValue/SwapByValue/bin/Debug/net6.0/SwapByValue.pdb
+/Users/newrandom/Projects/SwapByValue/SwapByValue/obj/Debug/net6.0/SwapByValue.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/SwapByValue/SwapByValue/obj/Debug/net6.0/SwapByValue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/SwapByValue/SwapByValue/obj/Debug/net6.0/SwapByValue.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/SwapByValue/SwapByValue/obj/Debug/net6.0/SwapByValue.AssemblyInfo.cs
+/Users/newrandom/Projects/SwapByValue/SwapByValue/obj/Debug/net6.0/SwapByValue.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/SwapByValue/SwapByValue/obj/Debug/net6.0/SwapByValue.dll
+/Users/newrandom/Projects/SwapByValue/SwapByValue/obj/Debug/net6.0/refint/SwapByValue.dll
+/Users/newrandom/Projects/SwapByValue/SwapByValue/obj/Debug/net6.0/SwapByValue.pdb
+/Users/newrandom/Projects/SwapByValue/SwapByValue/obj/Debug/net6.0/SwapByValue.genruntimeconfig.cache
+/Users/newrandom/Projects/SwapByValue/SwapByValue/obj/Debug/net6.0/ref/SwapByValue.dll

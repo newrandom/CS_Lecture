@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/RefReturn/RefReturn/bin/Debug/net6.0/RefReturn
+/Users/newrandom/Projects/RefReturn/RefReturn/bin/Debug/net6.0/RefReturn.deps.json
+/Users/newrandom/Projects/RefReturn/RefReturn/bin/Debug/net6.0/RefReturn.runtimeconfig.json
+/Users/newrandom/Projects/RefReturn/RefReturn/bin/Debug/net6.0/RefReturn.dll
+/Users/newrandom/Projects/RefReturn/RefReturn/bin/Debug/net6.0/RefReturn.pdb
+/Users/newrandom/Projects/RefReturn/RefReturn/obj/Debug/net6.0/RefReturn.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/RefReturn/RefReturn/obj/Debug/net6.0/RefReturn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/RefReturn/RefReturn/obj/Debug/net6.0/RefReturn.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/RefReturn/RefReturn/obj/Debug/net6.0/RefReturn.AssemblyInfo.cs
+/Users/newrandom/Projects/RefReturn/RefReturn/obj/Debug/net6.0/RefReturn.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/RefReturn/RefReturn/obj/Debug/net6.0/RefReturn.dll
+/Users/newrandom/Projects/RefReturn/RefReturn/obj/Debug/net6.0/refint/RefReturn.dll
+/Users/newrandom/Projects/RefReturn/RefReturn/obj/Debug/net6.0/RefReturn.pdb
+/Users/newrandom/Projects/RefReturn/RefReturn/obj/Debug/net6.0/RefReturn.genruntimeconfig.cache
+/Users/newrandom/Projects/RefReturn/RefReturn/obj/Debug/net6.0/ref/RefReturn.dll
