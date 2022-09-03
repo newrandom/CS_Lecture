@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/Overloading/Overloading/bin/Debug/net6.0/Overloading
+/Users/newrandom/Projects/Overloading/Overloading/bin/Debug/net6.0/Overloading.deps.json
+/Users/newrandom/Projects/Overloading/Overloading/bin/Debug/net6.0/Overloading.runtimeconfig.json
+/Users/newrandom/Projects/Overloading/Overloading/bin/Debug/net6.0/Overloading.dll
+/Users/newrandom/Projects/Overloading/Overloading/bin/Debug/net6.0/Overloading.pdb
+/Users/newrandom/Projects/Overloading/Overloading/obj/Debug/net6.0/Overloading.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/Overloading/Overloading/obj/Debug/net6.0/Overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/Overloading/Overloading/obj/Debug/net6.0/Overloading.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/Overloading/Overloading/obj/Debug/net6.0/Overloading.AssemblyInfo.cs
+/Users/newrandom/Projects/Overloading/Overloading/obj/Debug/net6.0/Overloading.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/Overloading/Overloading/obj/Debug/net6.0/Overloading.dll
+/Users/newrandom/Projects/Overloading/Overloading/obj/Debug/net6.0/refint/Overloading.dll
+/Users/newrandom/Projects/Overloading/Overloading/obj/Debug/net6.0/Overloading.pdb
+/Users/newrandom/Projects/Overloading/Overloading/obj/Debug/net6.0/Overloading.genruntimeconfig.cache
+/Users/newrandom/Projects/Overloading/Overloading/obj/Debug/net6.0/ref/Overloading.dll

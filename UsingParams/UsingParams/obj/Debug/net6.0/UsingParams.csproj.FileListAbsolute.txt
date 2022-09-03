@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/UsingParams/UsingParams/bin/Debug/net6.0/UsingParams
+/Users/newrandom/Projects/UsingParams/UsingParams/bin/Debug/net6.0/UsingParams.deps.json
+/Users/newrandom/Projects/UsingParams/UsingParams/bin/Debug/net6.0/UsingParams.runtimeconfig.json
+/Users/newrandom/Projects/UsingParams/UsingParams/bin/Debug/net6.0/UsingParams.dll
+/Users/newrandom/Projects/UsingParams/UsingParams/bin/Debug/net6.0/UsingParams.pdb
+/Users/newrandom/Projects/UsingParams/UsingParams/obj/Debug/net6.0/UsingParams.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/UsingParams/UsingParams/obj/Debug/net6.0/UsingParams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/UsingParams/UsingParams/obj/Debug/net6.0/UsingParams.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/UsingParams/UsingParams/obj/Debug/net6.0/UsingParams.AssemblyInfo.cs
+/Users/newrandom/Projects/UsingParams/UsingParams/obj/Debug/net6.0/UsingParams.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/UsingParams/UsingParams/obj/Debug/net6.0/UsingParams.dll
+/Users/newrandom/Projects/UsingParams/UsingParams/obj/Debug/net6.0/refint/UsingParams.dll
+/Users/newrandom/Projects/UsingParams/UsingParams/obj/Debug/net6.0/UsingParams.pdb
+/Users/newrandom/Projects/UsingParams/UsingParams/obj/Debug/net6.0/UsingParams.genruntimeconfig.cache
+/Users/newrandom/Projects/UsingParams/UsingParams/obj/Debug/net6.0/ref/UsingParams.dll
