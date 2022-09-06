@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/AccessModifier/AccessModifier/bin/Debug/net6.0/AccessModifier
+/Users/newrandom/Projects/AccessModifier/AccessModifier/bin/Debug/net6.0/AccessModifier.deps.json
+/Users/newrandom/Projects/AccessModifier/AccessModifier/bin/Debug/net6.0/AccessModifier.runtimeconfig.json
+/Users/newrandom/Projects/AccessModifier/AccessModifier/bin/Debug/net6.0/AccessModifier.dll
+/Users/newrandom/Projects/AccessModifier/AccessModifier/bin/Debug/net6.0/AccessModifier.pdb
+/Users/newrandom/Projects/AccessModifier/AccessModifier/obj/Debug/net6.0/AccessModifier.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/AccessModifier/AccessModifier/obj/Debug/net6.0/AccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/AccessModifier/AccessModifier/obj/Debug/net6.0/AccessModifier.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/AccessModifier/AccessModifier/obj/Debug/net6.0/AccessModifier.AssemblyInfo.cs
+/Users/newrandom/Projects/AccessModifier/AccessModifier/obj/Debug/net6.0/AccessModifier.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/AccessModifier/AccessModifier/obj/Debug/net6.0/AccessModifier.dll
+/Users/newrandom/Projects/AccessModifier/AccessModifier/obj/Debug/net6.0/refint/AccessModifier.dll
+/Users/newrandom/Projects/AccessModifier/AccessModifier/obj/Debug/net6.0/AccessModifier.pdb
+/Users/newrandom/Projects/AccessModifier/AccessModifier/obj/Debug/net6.0/AccessModifier.genruntimeconfig.cache
+/Users/newrandom/Projects/AccessModifier/AccessModifier/obj/Debug/net6.0/ref/AccessModifier.dll

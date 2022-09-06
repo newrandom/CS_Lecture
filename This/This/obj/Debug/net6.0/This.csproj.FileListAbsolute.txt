@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/This/This/bin/Debug/net6.0/This
+/Users/newrandom/Projects/This/This/bin/Debug/net6.0/This.deps.json
+/Users/newrandom/Projects/This/This/bin/Debug/net6.0/This.runtimeconfig.json
+/Users/newrandom/Projects/This/This/bin/Debug/net6.0/This.dll
+/Users/newrandom/Projects/This/This/bin/Debug/net6.0/This.pdb
+/Users/newrandom/Projects/This/This/obj/Debug/net6.0/This.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/This/This/obj/Debug/net6.0/This.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/This/This/obj/Debug/net6.0/This.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/This/This/obj/Debug/net6.0/This.AssemblyInfo.cs
+/Users/newrandom/Projects/This/This/obj/Debug/net6.0/This.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/This/This/obj/Debug/net6.0/This.dll
+/Users/newrandom/Projects/This/This/obj/Debug/net6.0/refint/This.dll
+/Users/newrandom/Projects/This/This/obj/Debug/net6.0/This.pdb
+/Users/newrandom/Projects/This/This/obj/Debug/net6.0/This.genruntimeconfig.cache
+/Users/newrandom/Projects/This/This/obj/Debug/net6.0/ref/This.dll

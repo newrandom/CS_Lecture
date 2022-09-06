@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/TypeCasting/TypeCasting/bin/Debug/net6.0/TypeCasting
+/Users/newrandom/Projects/TypeCasting/TypeCasting/bin/Debug/net6.0/TypeCasting.deps.json
+/Users/newrandom/Projects/TypeCasting/TypeCasting/bin/Debug/net6.0/TypeCasting.runtimeconfig.json
+/Users/newrandom/Projects/TypeCasting/TypeCasting/bin/Debug/net6.0/TypeCasting.dll
+/Users/newrandom/Projects/TypeCasting/TypeCasting/bin/Debug/net6.0/TypeCasting.pdb
+/Users/newrandom/Projects/TypeCasting/TypeCasting/obj/Debug/net6.0/TypeCasting.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/TypeCasting/TypeCasting/obj/Debug/net6.0/TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/TypeCasting/TypeCasting/obj/Debug/net6.0/TypeCasting.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/TypeCasting/TypeCasting/obj/Debug/net6.0/TypeCasting.AssemblyInfo.cs
+/Users/newrandom/Projects/TypeCasting/TypeCasting/obj/Debug/net6.0/TypeCasting.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/TypeCasting/TypeCasting/obj/Debug/net6.0/TypeCasting.dll
+/Users/newrandom/Projects/TypeCasting/TypeCasting/obj/Debug/net6.0/refint/TypeCasting.dll
+/Users/newrandom/Projects/TypeCasting/TypeCasting/obj/Debug/net6.0/TypeCasting.pdb
+/Users/newrandom/Projects/TypeCasting/TypeCasting/obj/Debug/net6.0/TypeCasting.genruntimeconfig.cache
+/Users/newrandom/Projects/TypeCasting/TypeCasting/obj/Debug/net6.0/ref/TypeCasting.dll

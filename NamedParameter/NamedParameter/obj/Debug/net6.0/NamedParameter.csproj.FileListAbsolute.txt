@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/NamedParameter/NamedParameter/bin/Debug/net6.0/NamedParameter
+/Users/newrandom/Projects/NamedParameter/NamedParameter/bin/Debug/net6.0/NamedParameter.deps.json
+/Users/newrandom/Projects/NamedParameter/NamedParameter/bin/Debug/net6.0/NamedParameter.runtimeconfig.json
+/Users/newrandom/Projects/NamedParameter/NamedParameter/bin/Debug/net6.0/NamedParameter.dll
+/Users/newrandom/Projects/NamedParameter/NamedParameter/bin/Debug/net6.0/NamedParameter.pdb
+/Users/newrandom/Projects/NamedParameter/NamedParameter/obj/Debug/net6.0/NamedParameter.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/NamedParameter/NamedParameter/obj/Debug/net6.0/NamedParameter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/NamedParameter/NamedParameter/obj/Debug/net6.0/NamedParameter.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/NamedParameter/NamedParameter/obj/Debug/net6.0/NamedParameter.AssemblyInfo.cs
+/Users/newrandom/Projects/NamedParameter/NamedParameter/obj/Debug/net6.0/NamedParameter.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/NamedParameter/NamedParameter/obj/Debug/net6.0/NamedParameter.dll
+/Users/newrandom/Projects/NamedParameter/NamedParameter/obj/Debug/net6.0/refint/NamedParameter.dll
+/Users/newrandom/Projects/NamedParameter/NamedParameter/obj/Debug/net6.0/NamedParameter.pdb
+/Users/newrandom/Projects/NamedParameter/NamedParameter/obj/Debug/net6.0/NamedParameter.genruntimeconfig.cache
+/Users/newrandom/Projects/NamedParameter/NamedParameter/obj/Debug/net6.0/ref/NamedParameter.dll

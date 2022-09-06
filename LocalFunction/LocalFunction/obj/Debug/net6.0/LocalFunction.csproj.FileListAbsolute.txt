@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/LocalFunction/LocalFunction/bin/Debug/net6.0/LocalFunction
+/Users/newrandom/Projects/LocalFunction/LocalFunction/bin/Debug/net6.0/LocalFunction.deps.json
+/Users/newrandom/Projects/LocalFunction/LocalFunction/bin/Debug/net6.0/LocalFunction.runtimeconfig.json
+/Users/newrandom/Projects/LocalFunction/LocalFunction/bin/Debug/net6.0/LocalFunction.dll
+/Users/newrandom/Projects/LocalFunction/LocalFunction/bin/Debug/net6.0/LocalFunction.pdb
+/Users/newrandom/Projects/LocalFunction/LocalFunction/obj/Debug/net6.0/LocalFunction.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/LocalFunction/LocalFunction/obj/Debug/net6.0/LocalFunction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/LocalFunction/LocalFunction/obj/Debug/net6.0/LocalFunction.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/LocalFunction/LocalFunction/obj/Debug/net6.0/LocalFunction.AssemblyInfo.cs
+/Users/newrandom/Projects/LocalFunction/LocalFunction/obj/Debug/net6.0/LocalFunction.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/LocalFunction/LocalFunction/obj/Debug/net6.0/LocalFunction.dll
+/Users/newrandom/Projects/LocalFunction/LocalFunction/obj/Debug/net6.0/refint/LocalFunction.dll
+/Users/newrandom/Projects/LocalFunction/LocalFunction/obj/Debug/net6.0/LocalFunction.pdb
+/Users/newrandom/Projects/LocalFunction/LocalFunction/obj/Debug/net6.0/LocalFunction.genruntimeconfig.cache
+/Users/newrandom/Projects/LocalFunction/LocalFunction/obj/Debug/net6.0/ref/LocalFunction.dll

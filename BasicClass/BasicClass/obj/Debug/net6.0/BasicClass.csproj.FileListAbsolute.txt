@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/BasicClass/BasicClass/bin/Debug/net6.0/BasicClass
+/Users/newrandom/Projects/BasicClass/BasicClass/bin/Debug/net6.0/BasicClass.deps.json
+/Users/newrandom/Projects/BasicClass/BasicClass/bin/Debug/net6.0/BasicClass.runtimeconfig.json
+/Users/newrandom/Projects/BasicClass/BasicClass/bin/Debug/net6.0/BasicClass.dll
+/Users/newrandom/Projects/BasicClass/BasicClass/bin/Debug/net6.0/BasicClass.pdb
+/Users/newrandom/Projects/BasicClass/BasicClass/obj/Debug/net6.0/BasicClass.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/BasicClass/BasicClass/obj/Debug/net6.0/BasicClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/BasicClass/BasicClass/obj/Debug/net6.0/BasicClass.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/BasicClass/BasicClass/obj/Debug/net6.0/BasicClass.AssemblyInfo.cs
+/Users/newrandom/Projects/BasicClass/BasicClass/obj/Debug/net6.0/BasicClass.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/BasicClass/BasicClass/obj/Debug/net6.0/BasicClass.dll
+/Users/newrandom/Projects/BasicClass/BasicClass/obj/Debug/net6.0/refint/BasicClass.dll
+/Users/newrandom/Projects/BasicClass/BasicClass/obj/Debug/net6.0/BasicClass.pdb
+/Users/newrandom/Projects/BasicClass/BasicClass/obj/Debug/net6.0/BasicClass.genruntimeconfig.cache
+/Users/newrandom/Projects/BasicClass/BasicClass/obj/Debug/net6.0/ref/BasicClass.dll

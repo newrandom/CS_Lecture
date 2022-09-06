@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/Constructor/Constructor/bin/Debug/net6.0/Constructor
+/Users/newrandom/Projects/Constructor/Constructor/bin/Debug/net6.0/Constructor.deps.json
+/Users/newrandom/Projects/Constructor/Constructor/bin/Debug/net6.0/Constructor.runtimeconfig.json
+/Users/newrandom/Projects/Constructor/Constructor/bin/Debug/net6.0/Constructor.dll
+/Users/newrandom/Projects/Constructor/Constructor/bin/Debug/net6.0/Constructor.pdb
+/Users/newrandom/Projects/Constructor/Constructor/obj/Debug/net6.0/Constructor.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/Constructor/Constructor/obj/Debug/net6.0/Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/Constructor/Constructor/obj/Debug/net6.0/Constructor.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/Constructor/Constructor/obj/Debug/net6.0/Constructor.AssemblyInfo.cs
+/Users/newrandom/Projects/Constructor/Constructor/obj/Debug/net6.0/Constructor.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/Constructor/Constructor/obj/Debug/net6.0/Constructor.dll
+/Users/newrandom/Projects/Constructor/Constructor/obj/Debug/net6.0/refint/Constructor.dll
+/Users/newrandom/Projects/Constructor/Constructor/obj/Debug/net6.0/Constructor.pdb
+/Users/newrandom/Projects/Constructor/Constructor/obj/Debug/net6.0/Constructor.genruntimeconfig.cache
+/Users/newrandom/Projects/Constructor/Constructor/obj/Debug/net6.0/ref/Constructor.dll

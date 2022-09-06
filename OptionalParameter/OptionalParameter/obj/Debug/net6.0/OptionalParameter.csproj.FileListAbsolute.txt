@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/OptionalParameter/OptionalParameter/bin/Debug/net6.0/OptionalParameter
+/Users/newrandom/Projects/OptionalParameter/OptionalParameter/bin/Debug/net6.0/OptionalParameter.deps.json
+/Users/newrandom/Projects/OptionalParameter/OptionalParameter/bin/Debug/net6.0/OptionalParameter.runtimeconfig.json
+/Users/newrandom/Projects/OptionalParameter/OptionalParameter/bin/Debug/net6.0/OptionalParameter.dll
+/Users/newrandom/Projects/OptionalParameter/OptionalParameter/bin/Debug/net6.0/OptionalParameter.pdb
+/Users/newrandom/Projects/OptionalParameter/OptionalParameter/obj/Debug/net6.0/OptionalParameter.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/OptionalParameter/OptionalParameter/obj/Debug/net6.0/OptionalParameter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/OptionalParameter/OptionalParameter/obj/Debug/net6.0/OptionalParameter.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/OptionalParameter/OptionalParameter/obj/Debug/net6.0/OptionalParameter.AssemblyInfo.cs
+/Users/newrandom/Projects/OptionalParameter/OptionalParameter/obj/Debug/net6.0/OptionalParameter.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/OptionalParameter/OptionalParameter/obj/Debug/net6.0/OptionalParameter.dll
+/Users/newrandom/Projects/OptionalParameter/OptionalParameter/obj/Debug/net6.0/refint/OptionalParameter.dll
+/Users/newrandom/Projects/OptionalParameter/OptionalParameter/obj/Debug/net6.0/OptionalParameter.pdb
+/Users/newrandom/Projects/OptionalParameter/OptionalParameter/obj/Debug/net6.0/OptionalParameter.genruntimeconfig.cache
+/Users/newrandom/Projects/OptionalParameter/OptionalParameter/obj/Debug/net6.0/ref/OptionalParameter.dll

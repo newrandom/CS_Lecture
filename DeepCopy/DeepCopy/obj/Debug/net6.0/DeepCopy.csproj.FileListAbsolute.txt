@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/DeepCopy/DeepCopy/bin/Debug/net6.0/DeepCopy
+/Users/newrandom/Projects/DeepCopy/DeepCopy/bin/Debug/net6.0/DeepCopy.deps.json
+/Users/newrandom/Projects/DeepCopy/DeepCopy/bin/Debug/net6.0/DeepCopy.runtimeconfig.json
+/Users/newrandom/Projects/DeepCopy/DeepCopy/bin/Debug/net6.0/DeepCopy.dll
+/Users/newrandom/Projects/DeepCopy/DeepCopy/bin/Debug/net6.0/DeepCopy.pdb
+/Users/newrandom/Projects/DeepCopy/DeepCopy/obj/Debug/net6.0/DeepCopy.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/DeepCopy/DeepCopy/obj/Debug/net6.0/DeepCopy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/DeepCopy/DeepCopy/obj/Debug/net6.0/DeepCopy.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/DeepCopy/DeepCopy/obj/Debug/net6.0/DeepCopy.AssemblyInfo.cs
+/Users/newrandom/Projects/DeepCopy/DeepCopy/obj/Debug/net6.0/DeepCopy.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/DeepCopy/DeepCopy/obj/Debug/net6.0/DeepCopy.dll
+/Users/newrandom/Projects/DeepCopy/DeepCopy/obj/Debug/net6.0/refint/DeepCopy.dll
+/Users/newrandom/Projects/DeepCopy/DeepCopy/obj/Debug/net6.0/DeepCopy.pdb
+/Users/newrandom/Projects/DeepCopy/DeepCopy/obj/Debug/net6.0/DeepCopy.genruntimeconfig.cache
+/Users/newrandom/Projects/DeepCopy/DeepCopy/obj/Debug/net6.0/ref/DeepCopy.dll

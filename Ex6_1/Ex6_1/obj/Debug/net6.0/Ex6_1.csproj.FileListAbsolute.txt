@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/Ex6_1/Ex6_1/bin/Debug/net6.0/Ex6_1
+/Users/newrandom/Projects/Ex6_1/Ex6_1/bin/Debug/net6.0/Ex6_1.deps.json
+/Users/newrandom/Projects/Ex6_1/Ex6_1/bin/Debug/net6.0/Ex6_1.runtimeconfig.json
+/Users/newrandom/Projects/Ex6_1/Ex6_1/bin/Debug/net6.0/Ex6_1.dll
+/Users/newrandom/Projects/Ex6_1/Ex6_1/bin/Debug/net6.0/Ex6_1.pdb
+/Users/newrandom/Projects/Ex6_1/Ex6_1/obj/Debug/net6.0/Ex6_1.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/Ex6_1/Ex6_1/obj/Debug/net6.0/Ex6_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/Ex6_1/Ex6_1/obj/Debug/net6.0/Ex6_1.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/Ex6_1/Ex6_1/obj/Debug/net6.0/Ex6_1.AssemblyInfo.cs
+/Users/newrandom/Projects/Ex6_1/Ex6_1/obj/Debug/net6.0/Ex6_1.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/Ex6_1/Ex6_1/obj/Debug/net6.0/Ex6_1.dll
+/Users/newrandom/Projects/Ex6_1/Ex6_1/obj/Debug/net6.0/refint/Ex6_1.dll
+/Users/newrandom/Projects/Ex6_1/Ex6_1/obj/Debug/net6.0/Ex6_1.pdb
+/Users/newrandom/Projects/Ex6_1/Ex6_1/obj/Debug/net6.0/Ex6_1.genruntimeconfig.cache
+/Users/newrandom/Projects/Ex6_1/Ex6_1/obj/Debug/net6.0/ref/Ex6_1.dll

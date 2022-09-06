@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/Ex6_3/Ex6_3/bin/Debug/net6.0/Ex6_3
+/Users/newrandom/Projects/Ex6_3/Ex6_3/bin/Debug/net6.0/Ex6_3.deps.json
+/Users/newrandom/Projects/Ex6_3/Ex6_3/bin/Debug/net6.0/Ex6_3.runtimeconfig.json
+/Users/newrandom/Projects/Ex6_3/Ex6_3/bin/Debug/net6.0/Ex6_3.dll
+/Users/newrandom/Projects/Ex6_3/Ex6_3/bin/Debug/net6.0/Ex6_3.pdb
+/Users/newrandom/Projects/Ex6_3/Ex6_3/obj/Debug/net6.0/Ex6_3.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/Ex6_3/Ex6_3/obj/Debug/net6.0/Ex6_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/Ex6_3/Ex6_3/obj/Debug/net6.0/Ex6_3.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/Ex6_3/Ex6_3/obj/Debug/net6.0/Ex6_3.AssemblyInfo.cs
+/Users/newrandom/Projects/Ex6_3/Ex6_3/obj/Debug/net6.0/Ex6_3.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/Ex6_3/Ex6_3/obj/Debug/net6.0/Ex6_3.dll
+/Users/newrandom/Projects/Ex6_3/Ex6_3/obj/Debug/net6.0/refint/Ex6_3.dll
+/Users/newrandom/Projects/Ex6_3/Ex6_3/obj/Debug/net6.0/Ex6_3.pdb
+/Users/newrandom/Projects/Ex6_3/Ex6_3/obj/Debug/net6.0/Ex6_3.genruntimeconfig.cache
+/Users/newrandom/Projects/Ex6_3/Ex6_3/obj/Debug/net6.0/ref/Ex6_3.dll

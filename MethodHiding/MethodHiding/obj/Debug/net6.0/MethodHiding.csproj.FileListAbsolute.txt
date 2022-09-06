@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/MethodHiding/MethodHiding/bin/Debug/net6.0/MethodHiding
+/Users/newrandom/Projects/MethodHiding/MethodHiding/bin/Debug/net6.0/MethodHiding.deps.json
+/Users/newrandom/Projects/MethodHiding/MethodHiding/bin/Debug/net6.0/MethodHiding.runtimeconfig.json
+/Users/newrandom/Projects/MethodHiding/MethodHiding/bin/Debug/net6.0/MethodHiding.dll
+/Users/newrandom/Projects/MethodHiding/MethodHiding/bin/Debug/net6.0/MethodHiding.pdb
+/Users/newrandom/Projects/MethodHiding/MethodHiding/obj/Debug/net6.0/MethodHiding.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/MethodHiding/MethodHiding/obj/Debug/net6.0/MethodHiding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/MethodHiding/MethodHiding/obj/Debug/net6.0/MethodHiding.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/MethodHiding/MethodHiding/obj/Debug/net6.0/MethodHiding.AssemblyInfo.cs
+/Users/newrandom/Projects/MethodHiding/MethodHiding/obj/Debug/net6.0/MethodHiding.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/MethodHiding/MethodHiding/obj/Debug/net6.0/MethodHiding.dll
+/Users/newrandom/Projects/MethodHiding/MethodHiding/obj/Debug/net6.0/refint/MethodHiding.dll
+/Users/newrandom/Projects/MethodHiding/MethodHiding/obj/Debug/net6.0/MethodHiding.pdb
+/Users/newrandom/Projects/MethodHiding/MethodHiding/obj/Debug/net6.0/MethodHiding.genruntimeconfig.cache
+/Users/newrandom/Projects/MethodHiding/MethodHiding/obj/Debug/net6.0/ref/MethodHiding.dll

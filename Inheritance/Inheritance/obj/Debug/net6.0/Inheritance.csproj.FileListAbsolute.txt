@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/Inheritance/Inheritance/bin/Debug/net6.0/Inheritance
+/Users/newrandom/Projects/Inheritance/Inheritance/bin/Debug/net6.0/Inheritance.deps.json
+/Users/newrandom/Projects/Inheritance/Inheritance/bin/Debug/net6.0/Inheritance.runtimeconfig.json
+/Users/newrandom/Projects/Inheritance/Inheritance/bin/Debug/net6.0/Inheritance.dll
+/Users/newrandom/Projects/Inheritance/Inheritance/bin/Debug/net6.0/Inheritance.pdb
+/Users/newrandom/Projects/Inheritance/Inheritance/obj/Debug/net6.0/Inheritance.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/Inheritance/Inheritance/obj/Debug/net6.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/Inheritance/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/Inheritance/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfo.cs
+/Users/newrandom/Projects/Inheritance/Inheritance/obj/Debug/net6.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/Inheritance/Inheritance/obj/Debug/net6.0/Inheritance.dll
+/Users/newrandom/Projects/Inheritance/Inheritance/obj/Debug/net6.0/refint/Inheritance.dll
+/Users/newrandom/Projects/Inheritance/Inheritance/obj/Debug/net6.0/Inheritance.pdb
+/Users/newrandom/Projects/Inheritance/Inheritance/obj/Debug/net6.0/Inheritance.genruntimeconfig.cache
+/Users/newrandom/Projects/Inheritance/Inheritance/obj/Debug/net6.0/ref/Inheritance.dll

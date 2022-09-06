@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/StaticField/StaticField/bin/Debug/net6.0/StaticField
+/Users/newrandom/Projects/StaticField/StaticField/bin/Debug/net6.0/StaticField.deps.json
+/Users/newrandom/Projects/StaticField/StaticField/bin/Debug/net6.0/StaticField.runtimeconfig.json
+/Users/newrandom/Projects/StaticField/StaticField/bin/Debug/net6.0/StaticField.dll
+/Users/newrandom/Projects/StaticField/StaticField/bin/Debug/net6.0/StaticField.pdb
+/Users/newrandom/Projects/StaticField/StaticField/obj/Debug/net6.0/StaticField.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/StaticField/StaticField/obj/Debug/net6.0/StaticField.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/StaticField/StaticField/obj/Debug/net6.0/StaticField.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/StaticField/StaticField/obj/Debug/net6.0/StaticField.AssemblyInfo.cs
+/Users/newrandom/Projects/StaticField/StaticField/obj/Debug/net6.0/StaticField.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/StaticField/StaticField/obj/Debug/net6.0/StaticField.dll
+/Users/newrandom/Projects/StaticField/StaticField/obj/Debug/net6.0/refint/StaticField.dll
+/Users/newrandom/Projects/StaticField/StaticField/obj/Debug/net6.0/StaticField.pdb
+/Users/newrandom/Projects/StaticField/StaticField/obj/Debug/net6.0/StaticField.genruntimeconfig.cache
+/Users/newrandom/Projects/StaticField/StaticField/obj/Debug/net6.0/ref/StaticField.dll
