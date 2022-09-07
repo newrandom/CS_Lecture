@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{0DE7145A-D06E-44C0-82A1-8C4343EAD6C4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SealedMethod/Program.cs">
+﻿<Properties StartupConfiguration="{D9E3D348-05A1-4937-9D43-87EB0FD2D188}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadonlyFields/Program.cs">
     <Files>
-      <File FileName="SealedMethod/Program.cs" Line="29" Column="2" />
+      <File FileName="ReadonlyFields/Program.cs" Line="27" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SealedMethod" expanded="True">
-            <Node name="SealedMethod" expanded="True" />
+          <Node name="ReadonlyFields" expanded="True">
+            <Node name="ReadonlyFields" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -19,8 +19,8 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.SealedMethod PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ReadonlyFields PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

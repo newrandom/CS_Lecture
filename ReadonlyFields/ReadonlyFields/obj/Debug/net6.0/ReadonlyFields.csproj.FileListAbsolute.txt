@@ -1,0 +1,5 @@
+/Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/obj/Debug/net6.0/ReadonlyFields.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/obj/Debug/net6.0/ReadonlyFields.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/obj/Debug/net6.0/ReadonlyFields.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/obj/Debug/net6.0/ReadonlyFields.AssemblyInfo.cs
+/Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/obj/Debug/net6.0/ReadonlyFields.csproj.CoreCompileInputs.cache

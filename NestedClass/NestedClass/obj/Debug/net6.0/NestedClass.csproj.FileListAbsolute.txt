@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/NestedClass/NestedClass/obj/Debug/net6.0/NestedClass.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/NestedClass/NestedClass/obj/Debug/net6.0/NestedClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/NestedClass/NestedClass/obj/Debug/net6.0/NestedClass.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/NestedClass/NestedClass/obj/Debug/net6.0/NestedClass.AssemblyInfo.cs
+/Users/newrandom/Projects/NestedClass/NestedClass/obj/Debug/net6.0/NestedClass.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/NestedClass/NestedClass/bin/Debug/net6.0/NestedClass
+/Users/newrandom/Projects/NestedClass/NestedClass/bin/Debug/net6.0/NestedClass.deps.json
+/Users/newrandom/Projects/NestedClass/NestedClass/bin/Debug/net6.0/NestedClass.runtimeconfig.json
+/Users/newrandom/Projects/NestedClass/NestedClass/bin/Debug/net6.0/NestedClass.dll
+/Users/newrandom/Projects/NestedClass/NestedClass/bin/Debug/net6.0/NestedClass.pdb
+/Users/newrandom/Projects/NestedClass/NestedClass/obj/Debug/net6.0/NestedClass.dll
+/Users/newrandom/Projects/NestedClass/NestedClass/obj/Debug/net6.0/refint/NestedClass.dll
+/Users/newrandom/Projects/NestedClass/NestedClass/obj/Debug/net6.0/NestedClass.pdb
+/Users/newrandom/Projects/NestedClass/NestedClass/obj/Debug/net6.0/NestedClass.genruntimeconfig.cache
+/Users/newrandom/Projects/NestedClass/NestedClass/obj/Debug/net6.0/ref/NestedClass.dll
