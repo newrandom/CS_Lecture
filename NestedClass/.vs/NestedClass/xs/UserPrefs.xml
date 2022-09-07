@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{761DD520-251E-4180-B4FC-1CB82B00A24F}|Default">
-  <MonoDevelop.Ide.ItemProperties.NestedClass FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NestedClass/MainApp.cs">
+    <Files>
+      <File FileName="NestedClass/Program.cs" Line="40" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NestedClass" expanded="True">
+            <Node name="NestedClass" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.NestedClass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
