@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/PartialClass/PartialClass/bin/Debug/net6.0/PartialClass
+/Users/newrandom/Projects/PartialClass/PartialClass/bin/Debug/net6.0/PartialClass.deps.json
+/Users/newrandom/Projects/PartialClass/PartialClass/bin/Debug/net6.0/PartialClass.runtimeconfig.json
+/Users/newrandom/Projects/PartialClass/PartialClass/bin/Debug/net6.0/PartialClass.dll
+/Users/newrandom/Projects/PartialClass/PartialClass/bin/Debug/net6.0/PartialClass.pdb
+/Users/newrandom/Projects/PartialClass/PartialClass/obj/Debug/net6.0/PartialClass.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/PartialClass/PartialClass/obj/Debug/net6.0/PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/PartialClass/PartialClass/obj/Debug/net6.0/PartialClass.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/PartialClass/PartialClass/obj/Debug/net6.0/PartialClass.AssemblyInfo.cs
+/Users/newrandom/Projects/PartialClass/PartialClass/obj/Debug/net6.0/PartialClass.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/PartialClass/PartialClass/obj/Debug/net6.0/PartialClass.dll
+/Users/newrandom/Projects/PartialClass/PartialClass/obj/Debug/net6.0/refint/PartialClass.dll
+/Users/newrandom/Projects/PartialClass/PartialClass/obj/Debug/net6.0/PartialClass.pdb
+/Users/newrandom/Projects/PartialClass/PartialClass/obj/Debug/net6.0/PartialClass.genruntimeconfig.cache
+/Users/newrandom/Projects/PartialClass/PartialClass/obj/Debug/net6.0/ref/PartialClass.dll
