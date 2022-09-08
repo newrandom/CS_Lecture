@@ -1,8 +1,22 @@
 ﻿using System;
-class MainApp
+using ConvertString;
+
+namespace ConvertString
 {
-    static void Main(string[] args)
+    public static class ConvertString
     {
-        Console.WriteLine("Hello World!");
+        public static string Append(this string myString, string appendingString)
+        {
+            return myString + appendingString;
+        }
+    }
+
+    class MainApp
+    {
+        static void Main(string[] args)
+        {
+            string hello = "Hello";
+            Console.WriteLine(hello.Append(", World!"));
+        }
     }
 }
