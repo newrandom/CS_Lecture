@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/ExtensionMethod/ExtensionMethod/obj/Debug/net6.0/ExtensionMethod.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/ExtensionMethod/ExtensionMethod/obj/Debug/net6.0/ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/ExtensionMethod/ExtensionMethod/obj/Debug/net6.0/ExtensionMethod.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/ExtensionMethod/ExtensionMethod/obj/Debug/net6.0/ExtensionMethod.AssemblyInfo.cs
+/Users/newrandom/Projects/ExtensionMethod/ExtensionMethod/obj/Debug/net6.0/ExtensionMethod.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/ExtensionMethod/ExtensionMethod/bin/Debug/net6.0/ExtensionMethod
+/Users/newrandom/Projects/ExtensionMethod/ExtensionMethod/bin/Debug/net6.0/ExtensionMethod.deps.json
+/Users/newrandom/Projects/ExtensionMethod/ExtensionMethod/bin/Debug/net6.0/ExtensionMethod.runtimeconfig.json
+/Users/newrandom/Projects/ExtensionMethod/ExtensionMethod/bin/Debug/net6.0/ExtensionMethod.dll
+/Users/newrandom/Projects/ExtensionMethod/ExtensionMethod/bin/Debug/net6.0/ExtensionMethod.pdb
+/Users/newrandom/Projects/ExtensionMethod/ExtensionMethod/obj/Debug/net6.0/ExtensionMethod.dll
+/Users/newrandom/Projects/ExtensionMethod/ExtensionMethod/obj/Debug/net6.0/refint/ExtensionMethod.dll
+/Users/newrandom/Projects/ExtensionMethod/ExtensionMethod/obj/Debug/net6.0/ExtensionMethod.pdb
+/Users/newrandom/Projects/ExtensionMethod/ExtensionMethod/obj/Debug/net6.0/ExtensionMethod.genruntimeconfig.cache
+/Users/newrandom/Projects/ExtensionMethod/ExtensionMethod/obj/Debug/net6.0/ref/ExtensionMethod.dll
