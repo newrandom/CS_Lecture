@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/Structure/Structure/bin/Debug/net6.0/Structure
+/Users/newrandom/Projects/Structure/Structure/bin/Debug/net6.0/Structure.deps.json
+/Users/newrandom/Projects/Structure/Structure/bin/Debug/net6.0/Structure.runtimeconfig.json
+/Users/newrandom/Projects/Structure/Structure/bin/Debug/net6.0/Structure.dll
+/Users/newrandom/Projects/Structure/Structure/bin/Debug/net6.0/Structure.pdb
+/Users/newrandom/Projects/Structure/Structure/obj/Debug/net6.0/Structure.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/Structure/Structure/obj/Debug/net6.0/Structure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/Structure/Structure/obj/Debug/net6.0/Structure.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/Structure/Structure/obj/Debug/net6.0/Structure.AssemblyInfo.cs
+/Users/newrandom/Projects/Structure/Structure/obj/Debug/net6.0/Structure.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/Structure/Structure/obj/Debug/net6.0/Structure.dll
+/Users/newrandom/Projects/Structure/Structure/obj/Debug/net6.0/refint/Structure.dll
+/Users/newrandom/Projects/Structure/Structure/obj/Debug/net6.0/Structure.pdb
+/Users/newrandom/Projects/Structure/Structure/obj/Debug/net6.0/Structure.genruntimeconfig.cache
+/Users/newrandom/Projects/Structure/Structure/obj/Debug/net6.0/ref/Structure.dll
