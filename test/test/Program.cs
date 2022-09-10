@@ -1,22 +1,25 @@
 ﻿using System;
-using ConvertString;
 
-namespace ConvertString
+namespace test
 {
-    public static class ConvertString
+    class A
     {
-        public static string Append(this string myString, string appendingString)
-        {
-            return myString + appendingString;
-        }
+
+    }
+    class B : A
+    {
+
     }
 
-    class MainApp
+    class C
+
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            string hello = "Hello";
-            Console.WriteLine(hello.Append(", World!"));
+            A a = new A();
+            B b = new B();
+            A c = new B();
+            //B d = new A();
         }
     }
 }

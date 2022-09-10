@@ -3,3 +3,13 @@
 /Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/obj/Debug/net6.0/ReadonlyFields.AssemblyInfoInputs.cache
 /Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/obj/Debug/net6.0/ReadonlyFields.AssemblyInfo.cs
 /Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/obj/Debug/net6.0/ReadonlyFields.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/bin/Debug/net6.0/ReadonlyFields
+/Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/bin/Debug/net6.0/ReadonlyFields.deps.json
+/Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/bin/Debug/net6.0/ReadonlyFields.runtimeconfig.json
+/Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/bin/Debug/net6.0/ReadonlyFields.dll
+/Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/bin/Debug/net6.0/ReadonlyFields.pdb
+/Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/obj/Debug/net6.0/ReadonlyFields.dll
+/Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/obj/Debug/net6.0/refint/ReadonlyFields.dll
+/Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/obj/Debug/net6.0/ReadonlyFields.pdb
+/Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/obj/Debug/net6.0/ReadonlyFields.genruntimeconfig.cache
+/Users/newrandom/Projects/ReadonlyFields/ReadonlyFields/obj/Debug/net6.0/ref/ReadonlyFields.dll

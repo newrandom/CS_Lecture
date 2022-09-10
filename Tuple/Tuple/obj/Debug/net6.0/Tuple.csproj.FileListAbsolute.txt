@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/Tuple/Tuple/bin/Debug/net6.0/Tuple
+/Users/newrandom/Projects/Tuple/Tuple/bin/Debug/net6.0/Tuple.deps.json
+/Users/newrandom/Projects/Tuple/Tuple/bin/Debug/net6.0/Tuple.runtimeconfig.json
+/Users/newrandom/Projects/Tuple/Tuple/bin/Debug/net6.0/Tuple.dll
+/Users/newrandom/Projects/Tuple/Tuple/bin/Debug/net6.0/Tuple.pdb
+/Users/newrandom/Projects/Tuple/Tuple/obj/Debug/net6.0/Tuple.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/Tuple/Tuple/obj/Debug/net6.0/Tuple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/Tuple/Tuple/obj/Debug/net6.0/Tuple.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/Tuple/Tuple/obj/Debug/net6.0/Tuple.AssemblyInfo.cs
+/Users/newrandom/Projects/Tuple/Tuple/obj/Debug/net6.0/Tuple.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/Tuple/Tuple/obj/Debug/net6.0/Tuple.dll
+/Users/newrandom/Projects/Tuple/Tuple/obj/Debug/net6.0/refint/Tuple.dll
+/Users/newrandom/Projects/Tuple/Tuple/obj/Debug/net6.0/Tuple.pdb
+/Users/newrandom/Projects/Tuple/Tuple/obj/Debug/net6.0/Tuple.genruntimeconfig.cache
+/Users/newrandom/Projects/Tuple/Tuple/obj/Debug/net6.0/ref/Tuple.dll

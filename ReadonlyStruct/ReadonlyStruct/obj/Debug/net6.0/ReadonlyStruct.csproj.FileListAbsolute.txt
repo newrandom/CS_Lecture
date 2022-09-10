@@ -1,0 +1,5 @@
+/Users/newrandom/Projects/ReadonlyStruct/ReadonlyStruct/obj/Debug/net6.0/ReadonlyStruct.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/ReadonlyStruct/ReadonlyStruct/obj/Debug/net6.0/ReadonlyStruct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/ReadonlyStruct/ReadonlyStruct/obj/Debug/net6.0/ReadonlyStruct.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/ReadonlyStruct/ReadonlyStruct/obj/Debug/net6.0/ReadonlyStruct.AssemblyInfo.cs
+/Users/newrandom/Projects/ReadonlyStruct/ReadonlyStruct/obj/Debug/net6.0/ReadonlyStruct.csproj.CoreCompileInputs.cache

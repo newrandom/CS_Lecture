@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8B5FE225-C5C5-4FC7-8040-27AF688F3A0B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadonlyStruct/Program.cs">
+    <Files>
+      <File FileName="ReadonlyStruct/Program.cs" Line="25" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReadonlyStruct" expanded="True">
+            <Node name="ReadonlyStruct" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ReadonlyStruct PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

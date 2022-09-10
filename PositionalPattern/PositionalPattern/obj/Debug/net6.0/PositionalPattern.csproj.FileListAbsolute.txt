@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/PositionalPattern/PositionalPattern/bin/Debug/net6.0/PositionalPattern
+/Users/newrandom/Projects/PositionalPattern/PositionalPattern/bin/Debug/net6.0/PositionalPattern.deps.json
+/Users/newrandom/Projects/PositionalPattern/PositionalPattern/bin/Debug/net6.0/PositionalPattern.runtimeconfig.json
+/Users/newrandom/Projects/PositionalPattern/PositionalPattern/bin/Debug/net6.0/PositionalPattern.dll
+/Users/newrandom/Projects/PositionalPattern/PositionalPattern/bin/Debug/net6.0/PositionalPattern.pdb
+/Users/newrandom/Projects/PositionalPattern/PositionalPattern/obj/Debug/net6.0/PositionalPattern.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/PositionalPattern/PositionalPattern/obj/Debug/net6.0/PositionalPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/PositionalPattern/PositionalPattern/obj/Debug/net6.0/PositionalPattern.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/PositionalPattern/PositionalPattern/obj/Debug/net6.0/PositionalPattern.AssemblyInfo.cs
+/Users/newrandom/Projects/PositionalPattern/PositionalPattern/obj/Debug/net6.0/PositionalPattern.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/PositionalPattern/PositionalPattern/obj/Debug/net6.0/PositionalPattern.dll
+/Users/newrandom/Projects/PositionalPattern/PositionalPattern/obj/Debug/net6.0/refint/PositionalPattern.dll
+/Users/newrandom/Projects/PositionalPattern/PositionalPattern/obj/Debug/net6.0/PositionalPattern.pdb
+/Users/newrandom/Projects/PositionalPattern/PositionalPattern/obj/Debug/net6.0/PositionalPattern.genruntimeconfig.cache
+/Users/newrandom/Projects/PositionalPattern/PositionalPattern/obj/Debug/net6.0/ref/PositionalPattern.dll

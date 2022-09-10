@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/Exam7_5/Exam7_5/obj/Debug/net6.0/Exam7_5.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/Exam7_5/Exam7_5/obj/Debug/net6.0/Exam7_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/Exam7_5/Exam7_5/obj/Debug/net6.0/Exam7_5.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/Exam7_5/Exam7_5/obj/Debug/net6.0/Exam7_5.AssemblyInfo.cs
+/Users/newrandom/Projects/Exam7_5/Exam7_5/obj/Debug/net6.0/Exam7_5.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/Exam7_5/Exam7_5/bin/Debug/net6.0/Exam7_5
+/Users/newrandom/Projects/Exam7_5/Exam7_5/bin/Debug/net6.0/Exam7_5.deps.json
+/Users/newrandom/Projects/Exam7_5/Exam7_5/bin/Debug/net6.0/Exam7_5.runtimeconfig.json
+/Users/newrandom/Projects/Exam7_5/Exam7_5/bin/Debug/net6.0/Exam7_5.dll
+/Users/newrandom/Projects/Exam7_5/Exam7_5/bin/Debug/net6.0/Exam7_5.pdb
+/Users/newrandom/Projects/Exam7_5/Exam7_5/obj/Debug/net6.0/Exam7_5.dll
+/Users/newrandom/Projects/Exam7_5/Exam7_5/obj/Debug/net6.0/refint/Exam7_5.dll
+/Users/newrandom/Projects/Exam7_5/Exam7_5/obj/Debug/net6.0/Exam7_5.pdb
+/Users/newrandom/Projects/Exam7_5/Exam7_5/obj/Debug/net6.0/Exam7_5.genruntimeconfig.cache
+/Users/newrandom/Projects/Exam7_5/Exam7_5/obj/Debug/net6.0/ref/Exam7_5.dll
