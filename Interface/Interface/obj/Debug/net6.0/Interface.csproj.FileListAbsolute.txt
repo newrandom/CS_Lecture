@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/Interface/Interface/bin/Debug/net6.0/Interface
+/Users/newrandom/Projects/Interface/Interface/bin/Debug/net6.0/Interface.deps.json
+/Users/newrandom/Projects/Interface/Interface/bin/Debug/net6.0/Interface.runtimeconfig.json
+/Users/newrandom/Projects/Interface/Interface/bin/Debug/net6.0/Interface.dll
+/Users/newrandom/Projects/Interface/Interface/bin/Debug/net6.0/Interface.pdb
+/Users/newrandom/Projects/Interface/Interface/obj/Debug/net6.0/Interface.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/Interface/Interface/obj/Debug/net6.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/Interface/Interface/obj/Debug/net6.0/Interface.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/Interface/Interface/obj/Debug/net6.0/Interface.AssemblyInfo.cs
+/Users/newrandom/Projects/Interface/Interface/obj/Debug/net6.0/Interface.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/Interface/Interface/obj/Debug/net6.0/Interface.dll
+/Users/newrandom/Projects/Interface/Interface/obj/Debug/net6.0/refint/Interface.dll
+/Users/newrandom/Projects/Interface/Interface/obj/Debug/net6.0/Interface.pdb
+/Users/newrandom/Projects/Interface/Interface/obj/Debug/net6.0/Interface.genruntimeconfig.cache
+/Users/newrandom/Projects/Interface/Interface/obj/Debug/net6.0/ref/Interface.dll
