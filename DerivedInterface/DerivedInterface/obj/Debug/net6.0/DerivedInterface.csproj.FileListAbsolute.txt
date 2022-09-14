@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/DerivedInterface/DerivedInterface/bin/Debug/net6.0/DerivedInterface
+/Users/newrandom/Projects/DerivedInterface/DerivedInterface/bin/Debug/net6.0/DerivedInterface.deps.json
+/Users/newrandom/Projects/DerivedInterface/DerivedInterface/bin/Debug/net6.0/DerivedInterface.runtimeconfig.json
+/Users/newrandom/Projects/DerivedInterface/DerivedInterface/bin/Debug/net6.0/DerivedInterface.dll
+/Users/newrandom/Projects/DerivedInterface/DerivedInterface/bin/Debug/net6.0/DerivedInterface.pdb
+/Users/newrandom/Projects/DerivedInterface/DerivedInterface/obj/Debug/net6.0/DerivedInterface.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/DerivedInterface/DerivedInterface/obj/Debug/net6.0/DerivedInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/DerivedInterface/DerivedInterface/obj/Debug/net6.0/DerivedInterface.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/DerivedInterface/DerivedInterface/obj/Debug/net6.0/DerivedInterface.AssemblyInfo.cs
+/Users/newrandom/Projects/DerivedInterface/DerivedInterface/obj/Debug/net6.0/DerivedInterface.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/DerivedInterface/DerivedInterface/obj/Debug/net6.0/DerivedInterface.dll
+/Users/newrandom/Projects/DerivedInterface/DerivedInterface/obj/Debug/net6.0/refint/DerivedInterface.dll
+/Users/newrandom/Projects/DerivedInterface/DerivedInterface/obj/Debug/net6.0/DerivedInterface.pdb
+/Users/newrandom/Projects/DerivedInterface/DerivedInterface/obj/Debug/net6.0/DerivedInterface.genruntimeconfig.cache
+/Users/newrandom/Projects/DerivedInterface/DerivedInterface/obj/Debug/net6.0/ref/DerivedInterface.dll
