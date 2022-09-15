@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/AutoImplementedProperty/AutoImplementedProperty/bin/Debug/net6.0/AutoImplementedProperty
+/Users/newrandom/Projects/AutoImplementedProperty/AutoImplementedProperty/bin/Debug/net6.0/AutoImplementedProperty.deps.json
+/Users/newrandom/Projects/AutoImplementedProperty/AutoImplementedProperty/bin/Debug/net6.0/AutoImplementedProperty.runtimeconfig.json
+/Users/newrandom/Projects/AutoImplementedProperty/AutoImplementedProperty/bin/Debug/net6.0/AutoImplementedProperty.dll
+/Users/newrandom/Projects/AutoImplementedProperty/AutoImplementedProperty/bin/Debug/net6.0/AutoImplementedProperty.pdb
+/Users/newrandom/Projects/AutoImplementedProperty/AutoImplementedProperty/obj/Debug/net6.0/AutoImplementedProperty.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/AutoImplementedProperty/AutoImplementedProperty/obj/Debug/net6.0/AutoImplementedProperty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/AutoImplementedProperty/AutoImplementedProperty/obj/Debug/net6.0/AutoImplementedProperty.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/AutoImplementedProperty/AutoImplementedProperty/obj/Debug/net6.0/AutoImplementedProperty.AssemblyInfo.cs
+/Users/newrandom/Projects/AutoImplementedProperty/AutoImplementedProperty/obj/Debug/net6.0/AutoImplementedProperty.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/AutoImplementedProperty/AutoImplementedProperty/obj/Debug/net6.0/AutoImplementedProperty.dll
+/Users/newrandom/Projects/AutoImplementedProperty/AutoImplementedProperty/obj/Debug/net6.0/refint/AutoImplementedProperty.dll
+/Users/newrandom/Projects/AutoImplementedProperty/AutoImplementedProperty/obj/Debug/net6.0/AutoImplementedProperty.pdb
+/Users/newrandom/Projects/AutoImplementedProperty/AutoImplementedProperty/obj/Debug/net6.0/AutoImplementedProperty.genruntimeconfig.cache
+/Users/newrandom/Projects/AutoImplementedProperty/AutoImplementedProperty/obj/Debug/net6.0/ref/AutoImplementedProperty.dll

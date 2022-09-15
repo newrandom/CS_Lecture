@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{7875D587-2880-473A-9CBA-78F92CE3EEEA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DerivedInterface FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DerivedInterface/Program.cs">
+    <Files>
+      <File FileName="DerivedInterface/Program.cs" Line="37" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DerivedInterface" expanded="True">
+            <Node name="DerivedInterface" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DerivedInterface PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

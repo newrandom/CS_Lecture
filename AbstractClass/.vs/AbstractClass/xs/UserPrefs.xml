@@ -1,19 +1,20 @@
-﻿<Properties StartupConfiguration="{2E7A9486-BD6A-422B-91B5-CB259B46C51F}|Default">
+﻿<Properties StartupConfiguration="{DBEAF668-5F00-4B5C-944B-9EC118A9F033}|Default">
+  <MonoDevelop.Ide.ItemProperties.AbstractClass PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Interface/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractClass/Program.cs">
     <Files>
-      <File FileName="Interface/Program.cs" Line="27" Column="37" />
+      <File FileName="AbstractClass/Program.cs" Line="32" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Interface" expanded="True">
-            <Node name="Interface" expanded="True" />
+          <Node name="AbstractClass" expanded="True">
+            <Node name="AbstractClass" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -22,5 +23,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Interface PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

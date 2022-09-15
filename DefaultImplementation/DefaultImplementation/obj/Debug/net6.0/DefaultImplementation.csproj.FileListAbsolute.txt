@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/DefaultImplementation/DefaultImplementation/bin/Debug/net6.0/DefaultImplementation
+/Users/newrandom/Projects/DefaultImplementation/DefaultImplementation/bin/Debug/net6.0/DefaultImplementation.deps.json
+/Users/newrandom/Projects/DefaultImplementation/DefaultImplementation/bin/Debug/net6.0/DefaultImplementation.runtimeconfig.json
+/Users/newrandom/Projects/DefaultImplementation/DefaultImplementation/bin/Debug/net6.0/DefaultImplementation.dll
+/Users/newrandom/Projects/DefaultImplementation/DefaultImplementation/bin/Debug/net6.0/DefaultImplementation.pdb
+/Users/newrandom/Projects/DefaultImplementation/DefaultImplementation/obj/Debug/net6.0/DefaultImplementation.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/DefaultImplementation/DefaultImplementation/obj/Debug/net6.0/DefaultImplementation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/DefaultImplementation/DefaultImplementation/obj/Debug/net6.0/DefaultImplementation.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/DefaultImplementation/DefaultImplementation/obj/Debug/net6.0/DefaultImplementation.AssemblyInfo.cs
+/Users/newrandom/Projects/DefaultImplementation/DefaultImplementation/obj/Debug/net6.0/DefaultImplementation.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/DefaultImplementation/DefaultImplementation/obj/Debug/net6.0/DefaultImplementation.dll
+/Users/newrandom/Projects/DefaultImplementation/DefaultImplementation/obj/Debug/net6.0/refint/DefaultImplementation.dll
+/Users/newrandom/Projects/DefaultImplementation/DefaultImplementation/obj/Debug/net6.0/DefaultImplementation.pdb
+/Users/newrandom/Projects/DefaultImplementation/DefaultImplementation/obj/Debug/net6.0/DefaultImplementation.genruntimeconfig.cache
+/Users/newrandom/Projects/DefaultImplementation/DefaultImplementation/obj/Debug/net6.0/ref/DefaultImplementation.dll

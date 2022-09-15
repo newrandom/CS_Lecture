@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/Property/Property/bin/Debug/net6.0/Property
+/Users/newrandom/Projects/Property/Property/bin/Debug/net6.0/Property.deps.json
+/Users/newrandom/Projects/Property/Property/bin/Debug/net6.0/Property.runtimeconfig.json
+/Users/newrandom/Projects/Property/Property/bin/Debug/net6.0/Property.dll
+/Users/newrandom/Projects/Property/Property/bin/Debug/net6.0/Property.pdb
+/Users/newrandom/Projects/Property/Property/obj/Debug/net6.0/Property.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/Property/Property/obj/Debug/net6.0/Property.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/Property/Property/obj/Debug/net6.0/Property.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/Property/Property/obj/Debug/net6.0/Property.AssemblyInfo.cs
+/Users/newrandom/Projects/Property/Property/obj/Debug/net6.0/Property.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/Property/Property/obj/Debug/net6.0/Property.dll
+/Users/newrandom/Projects/Property/Property/obj/Debug/net6.0/refint/Property.dll
+/Users/newrandom/Projects/Property/Property/obj/Debug/net6.0/Property.pdb
+/Users/newrandom/Projects/Property/Property/obj/Debug/net6.0/Property.genruntimeconfig.cache
+/Users/newrandom/Projects/Property/Property/obj/Debug/net6.0/ref/Property.dll

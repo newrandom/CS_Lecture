@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/AbstractClass/AbstractClass/bin/Debug/net6.0/AbstractClass
+/Users/newrandom/Projects/AbstractClass/AbstractClass/bin/Debug/net6.0/AbstractClass.deps.json
+/Users/newrandom/Projects/AbstractClass/AbstractClass/bin/Debug/net6.0/AbstractClass.runtimeconfig.json
+/Users/newrandom/Projects/AbstractClass/AbstractClass/bin/Debug/net6.0/AbstractClass.dll
+/Users/newrandom/Projects/AbstractClass/AbstractClass/bin/Debug/net6.0/AbstractClass.pdb
+/Users/newrandom/Projects/AbstractClass/AbstractClass/obj/Debug/net6.0/AbstractClass.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/AbstractClass/AbstractClass/obj/Debug/net6.0/AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/AbstractClass/AbstractClass/obj/Debug/net6.0/AbstractClass.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/AbstractClass/AbstractClass/obj/Debug/net6.0/AbstractClass.AssemblyInfo.cs
+/Users/newrandom/Projects/AbstractClass/AbstractClass/obj/Debug/net6.0/AbstractClass.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/AbstractClass/AbstractClass/obj/Debug/net6.0/AbstractClass.dll
+/Users/newrandom/Projects/AbstractClass/AbstractClass/obj/Debug/net6.0/refint/AbstractClass.dll
+/Users/newrandom/Projects/AbstractClass/AbstractClass/obj/Debug/net6.0/AbstractClass.pdb
+/Users/newrandom/Projects/AbstractClass/AbstractClass/obj/Debug/net6.0/AbstractClass.genruntimeconfig.cache
+/Users/newrandom/Projects/AbstractClass/AbstractClass/obj/Debug/net6.0/ref/AbstractClass.dll

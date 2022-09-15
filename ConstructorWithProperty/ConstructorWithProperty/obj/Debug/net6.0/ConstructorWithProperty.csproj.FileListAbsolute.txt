@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/ConstructorWithProperty/ConstructorWithProperty/bin/Debug/net6.0/ConstructorWithProperty
+/Users/newrandom/Projects/ConstructorWithProperty/ConstructorWithProperty/bin/Debug/net6.0/ConstructorWithProperty.deps.json
+/Users/newrandom/Projects/ConstructorWithProperty/ConstructorWithProperty/bin/Debug/net6.0/ConstructorWithProperty.runtimeconfig.json
+/Users/newrandom/Projects/ConstructorWithProperty/ConstructorWithProperty/bin/Debug/net6.0/ConstructorWithProperty.dll
+/Users/newrandom/Projects/ConstructorWithProperty/ConstructorWithProperty/bin/Debug/net6.0/ConstructorWithProperty.pdb
+/Users/newrandom/Projects/ConstructorWithProperty/ConstructorWithProperty/obj/Debug/net6.0/ConstructorWithProperty.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/ConstructorWithProperty/ConstructorWithProperty/obj/Debug/net6.0/ConstructorWithProperty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/ConstructorWithProperty/ConstructorWithProperty/obj/Debug/net6.0/ConstructorWithProperty.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/ConstructorWithProperty/ConstructorWithProperty/obj/Debug/net6.0/ConstructorWithProperty.AssemblyInfo.cs
+/Users/newrandom/Projects/ConstructorWithProperty/ConstructorWithProperty/obj/Debug/net6.0/ConstructorWithProperty.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/ConstructorWithProperty/ConstructorWithProperty/obj/Debug/net6.0/ConstructorWithProperty.dll
+/Users/newrandom/Projects/ConstructorWithProperty/ConstructorWithProperty/obj/Debug/net6.0/refint/ConstructorWithProperty.dll
+/Users/newrandom/Projects/ConstructorWithProperty/ConstructorWithProperty/obj/Debug/net6.0/ConstructorWithProperty.pdb
+/Users/newrandom/Projects/ConstructorWithProperty/ConstructorWithProperty/obj/Debug/net6.0/ConstructorWithProperty.genruntimeconfig.cache
+/Users/newrandom/Projects/ConstructorWithProperty/ConstructorWithProperty/obj/Debug/net6.0/ref/ConstructorWithProperty.dll

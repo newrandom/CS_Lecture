@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/MultiInterfaceInheritance/MultiInterfaceInheritance/bin/Debug/net6.0/MultiInterfaceInheritance
+/Users/newrandom/Projects/MultiInterfaceInheritance/MultiInterfaceInheritance/bin/Debug/net6.0/MultiInterfaceInheritance.deps.json
+/Users/newrandom/Projects/MultiInterfaceInheritance/MultiInterfaceInheritance/bin/Debug/net6.0/MultiInterfaceInheritance.runtimeconfig.json
+/Users/newrandom/Projects/MultiInterfaceInheritance/MultiInterfaceInheritance/bin/Debug/net6.0/MultiInterfaceInheritance.dll
+/Users/newrandom/Projects/MultiInterfaceInheritance/MultiInterfaceInheritance/bin/Debug/net6.0/MultiInterfaceInheritance.pdb
+/Users/newrandom/Projects/MultiInterfaceInheritance/MultiInterfaceInheritance/obj/Debug/net6.0/MultiInterfaceInheritance.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/MultiInterfaceInheritance/MultiInterfaceInheritance/obj/Debug/net6.0/MultiInterfaceInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/MultiInterfaceInheritance/MultiInterfaceInheritance/obj/Debug/net6.0/MultiInterfaceInheritance.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/MultiInterfaceInheritance/MultiInterfaceInheritance/obj/Debug/net6.0/MultiInterfaceInheritance.AssemblyInfo.cs
+/Users/newrandom/Projects/MultiInterfaceInheritance/MultiInterfaceInheritance/obj/Debug/net6.0/MultiInterfaceInheritance.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/MultiInterfaceInheritance/MultiInterfaceInheritance/obj/Debug/net6.0/MultiInterfaceInheritance.dll
+/Users/newrandom/Projects/MultiInterfaceInheritance/MultiInterfaceInheritance/obj/Debug/net6.0/refint/MultiInterfaceInheritance.dll
+/Users/newrandom/Projects/MultiInterfaceInheritance/MultiInterfaceInheritance/obj/Debug/net6.0/MultiInterfaceInheritance.pdb
+/Users/newrandom/Projects/MultiInterfaceInheritance/MultiInterfaceInheritance/obj/Debug/net6.0/MultiInterfaceInheritance.genruntimeconfig.cache
+/Users/newrandom/Projects/MultiInterfaceInheritance/MultiInterfaceInheritance/obj/Debug/net6.0/ref/MultiInterfaceInheritance.dll
