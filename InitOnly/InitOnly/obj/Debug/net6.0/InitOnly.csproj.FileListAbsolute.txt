@@ -1,0 +1,15 @@
+/Users/newrandom/Projects/InitOnly/InitOnly/bin/Debug/net6.0/InitOnly
+/Users/newrandom/Projects/InitOnly/InitOnly/bin/Debug/net6.0/InitOnly.deps.json
+/Users/newrandom/Projects/InitOnly/InitOnly/bin/Debug/net6.0/InitOnly.runtimeconfig.json
+/Users/newrandom/Projects/InitOnly/InitOnly/bin/Debug/net6.0/InitOnly.dll
+/Users/newrandom/Projects/InitOnly/InitOnly/bin/Debug/net6.0/InitOnly.pdb
+/Users/newrandom/Projects/InitOnly/InitOnly/obj/Debug/net6.0/InitOnly.csproj.AssemblyReference.cache
+/Users/newrandom/Projects/InitOnly/InitOnly/obj/Debug/net6.0/InitOnly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newrandom/Projects/InitOnly/InitOnly/obj/Debug/net6.0/InitOnly.AssemblyInfoInputs.cache
+/Users/newrandom/Projects/InitOnly/InitOnly/obj/Debug/net6.0/InitOnly.AssemblyInfo.cs
+/Users/newrandom/Projects/InitOnly/InitOnly/obj/Debug/net6.0/InitOnly.csproj.CoreCompileInputs.cache
+/Users/newrandom/Projects/InitOnly/InitOnly/obj/Debug/net6.0/InitOnly.dll
+/Users/newrandom/Projects/InitOnly/InitOnly/obj/Debug/net6.0/refint/InitOnly.dll
+/Users/newrandom/Projects/InitOnly/InitOnly/obj/Debug/net6.0/InitOnly.pdb
+/Users/newrandom/Projects/InitOnly/InitOnly/obj/Debug/net6.0/InitOnly.genruntimeconfig.cache
+/Users/newrandom/Projects/InitOnly/InitOnly/obj/Debug/net6.0/ref/InitOnly.dll
