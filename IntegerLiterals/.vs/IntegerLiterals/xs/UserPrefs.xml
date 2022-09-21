@@ -1,16 +1,19 @@
 ﻿<Properties StartupConfiguration="{95F8C822-AF3B-4EE7-BBE0-304FC52C7553}|Default">
-  <MonoDevelop.Ide.ItemProperties.IntegerLiterals PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="IntegerLiterals/MainApp.cs">
     <Files>
-      <File FileName="IntegerLiterals/Program.cs" Line="19" Column="41" />
+      <File FileName="IntegerLiterals/MainApp.cs" Line="12" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="IntegerLiterals" expanded="True">
-            <Node name="IntegerLiterals" expanded="True" />
+            <Node name="IntegerLiterals" expanded="True">
+              <Node name="MainApp.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -19,8 +22,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IntegerLiterals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
