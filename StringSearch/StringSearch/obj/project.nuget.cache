@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "f+kvN4JcdQvSUo8vIc2Avt35qzF3GUH7RuuX1gU7+GH6kbjjsJhiU6lWc/q0QJ+LEAaI64FPe+VW4u6pPLWTuw==",
+  "dgSpecHash": "5Kr2EHW3VsgoiOAgCGJ5felv2D7XqO3wD8L9LlMa7v27EtXmbsjNn/Sp7zin4A4xPakuCkVfYSrOmYBxGY6HfA==",
   "success": true,
-  "projectFilePath": "/Users/newrandom/Projects/StringSearch/StringSearch/StringSearch.csproj",
+  "projectFilePath": "C:\\Users\\mybac\\OneDrive\\문서\\GitHub\\CS_Lecture\\StringSearch\\StringSearch\\StringSearch.csproj",
   "expectedPackageFiles": [
-    "/Users/newrandom/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
-    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\mybac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\mybac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mybac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mybac\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

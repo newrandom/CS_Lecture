@@ -14,11 +14,12 @@ namespace StringSearch
             // IndexOf()
             WriteLine("IndexOf 'Good' : {0}", greeting.IndexOf("Good"));
             WriteLine("IndexOf 'o' : {0}", greeting.IndexOf('o'));
+            WriteLine("IndexOf 'Morning' : {0}", greeting.IndexOf("Morning"));
 
             // LastIndexOf()
             WriteLine("LastIndexOf 'Good' : {0}", greeting.LastIndexOf("Good"));
             WriteLine("LastIndexOf 'o' : {0}", greeting.LastIndexOf("o"));
-            WriteLine("LastIndexOf 'o' : {0}", greeting.LastIndexOf('o'));
+            WriteLine("LastIndexOf 'Morning' : {0}", greeting.LastIndexOf("Morning"));
 
             // StartsWith()
             WriteLine("StartsWith 'Good' : {0}", greeting.StartsWith("Good"));

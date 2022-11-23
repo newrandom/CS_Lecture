@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kgP9ssuoPY/SCKQGr/SHoYmuk5ekIcNhvCaWWApNAwNroTAq964kLEcNz8Nara92NKYCmjlAIuOMehBd0BDi5w==",
+  "dgSpecHash": "sBGWM6xOjGu8qgj00fqUNAuSZWmIMZJ3MxjTwTDZpd5KsEN8M0z44J2/xQBpO6l9e76Qv6mHmKHwP7kDgv4soA==",
   "success": true,
-  "projectFilePath": "/Users/newrandom/Projects/Enum2/Enum2/Enum2.csproj",
+  "projectFilePath": "C:\\Users\\mybac\\OneDrive\\문서\\GitHub\\CS_Lecture\\Enum2\\Enum2\\Enum2.csproj",
   "expectedPackageFiles": [
-    "/Users/newrandom/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
-    "/Users/newrandom/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\mybac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\mybac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mybac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mybac\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -12,3 +12,17 @@
 /Users/newrandom/Projects/StringSearch/StringSearch/obj/Debug/netcoreapp3.1/StringSearch.dll
 /Users/newrandom/Projects/StringSearch/StringSearch/obj/Debug/netcoreapp3.1/StringSearch.pdb
 /Users/newrandom/Projects/StringSearch/StringSearch/obj/Debug/netcoreapp3.1/StringSearch.genruntimeconfig.cache
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\StringSearch\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.exe
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\StringSearch\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.deps.json
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\StringSearch\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.runtimeconfig.json
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\StringSearch\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.runtimeconfig.dev.json
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\StringSearch\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.dll
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\StringSearch\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.pdb
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\StringSearch\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.csproj.AssemblyReference.cache
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\StringSearch\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\StringSearch\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.AssemblyInfoInputs.cache
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\StringSearch\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.AssemblyInfo.cs
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\StringSearch\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.csproj.CoreCompileInputs.cache
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\StringSearch\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.dll
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\StringSearch\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.pdb
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\StringSearch\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.genruntimeconfig.cache

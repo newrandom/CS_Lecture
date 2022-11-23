@@ -1,0 +1,15 @@
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Record\Record\obj\Debug\net6.0\Record.csproj.AssemblyReference.cache
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Record\Record\obj\Debug\net6.0\Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Record\Record\obj\Debug\net6.0\Record.AssemblyInfoInputs.cache
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Record\Record\obj\Debug\net6.0\Record.AssemblyInfo.cs
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Record\Record\obj\Debug\net6.0\Record.csproj.CoreCompileInputs.cache
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Record\Record\bin\Debug\net6.0\Record.exe
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Record\Record\bin\Debug\net6.0\Record.deps.json
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Record\Record\bin\Debug\net6.0\Record.runtimeconfig.json
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Record\Record\bin\Debug\net6.0\Record.dll
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Record\Record\bin\Debug\net6.0\Record.pdb
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Record\Record\obj\Debug\net6.0\Record.dll
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Record\Record\obj\Debug\net6.0\refint\Record.dll
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Record\Record\obj\Debug\net6.0\Record.pdb
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Record\Record\obj\Debug\net6.0\Record.genruntimeconfig.cache
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Record\Record\obj\Debug\net6.0\ref\Record.dll

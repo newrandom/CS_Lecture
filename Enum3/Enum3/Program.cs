@@ -4,7 +4,9 @@ namespace Enum3
 {
     class Program
     {
-        enum DialogResult { YES = 10, NO, CANCEL, CONFIRM=50, OK, test }
+
+        enum DialogResult { YES = 10, NO=7, CANCEL, CONFIRM=50, OK, test }
+
 
         static void Main(string[] args)
         {

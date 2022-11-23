@@ -12,3 +12,17 @@
 /Users/newrandom/Projects/Enum3/Enum3/obj/Debug/netcoreapp3.1/Enum3.dll
 /Users/newrandom/Projects/Enum3/Enum3/obj/Debug/netcoreapp3.1/Enum3.pdb
 /Users/newrandom/Projects/Enum3/Enum3/obj/Debug/netcoreapp3.1/Enum3.genruntimeconfig.cache
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Enum3\Enum3\bin\Debug\netcoreapp3.1\Enum3.exe
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Enum3\Enum3\bin\Debug\netcoreapp3.1\Enum3.deps.json
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Enum3\Enum3\bin\Debug\netcoreapp3.1\Enum3.runtimeconfig.json
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Enum3\Enum3\bin\Debug\netcoreapp3.1\Enum3.runtimeconfig.dev.json
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Enum3\Enum3\bin\Debug\netcoreapp3.1\Enum3.dll
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Enum3\Enum3\bin\Debug\netcoreapp3.1\Enum3.pdb
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Enum3\Enum3\obj\Debug\netcoreapp3.1\Enum3.csproj.AssemblyReference.cache
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Enum3\Enum3\obj\Debug\netcoreapp3.1\Enum3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Enum3\Enum3\obj\Debug\netcoreapp3.1\Enum3.AssemblyInfoInputs.cache
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Enum3\Enum3\obj\Debug\netcoreapp3.1\Enum3.AssemblyInfo.cs
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Enum3\Enum3\obj\Debug\netcoreapp3.1\Enum3.csproj.CoreCompileInputs.cache
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Enum3\Enum3\obj\Debug\netcoreapp3.1\Enum3.dll
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Enum3\Enum3\obj\Debug\netcoreapp3.1\Enum3.pdb
+C:\Users\mybac\OneDrive\문서\GitHub\CS_Lecture\Enum3\Enum3\obj\Debug\netcoreapp3.1\Enum3.genruntimeconfig.cache
